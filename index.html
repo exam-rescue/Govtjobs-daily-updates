@@ -3,159 +3,348 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GovtJobs Daily — Latest Sarkari Naukri, Admit Card, Result Alerts</title>
+    <title>GovtJobs Daily — Latest Sarkari Naukri, Admit Card, Result & Answer Key Alerts</title>
     <meta name="description" content="Get the latest government job notifications, admit cards, results, answer keys, and syllabus updates. Verified official links, updated daily.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📋</text></svg>">
 </head>
 <body>
-    <header class="header">
+
+    <!-- ====== HEADER ====== -->
+    <header class="header" id="header">
         <div class="container header-inner">
             <a href="/" class="logo">
-                <span class="logo-icon">📢</span>
+                <div class="logo-mark">GJ</div>
                 <div class="logo-text">
                     <span class="logo-title">GovtJobs Daily</span>
                     <span class="logo-sub">Sarkari Naukri Alerts</span>
                 </div>
             </a>
-            <nav class="nav" id="mainNav">
-                <a href="#" class="nav-link active" data-filter="all">All Updates</a>
-                <a href="#" class="nav-link" data-filter="recruitment">Recruitment</a>
-                <a href="#" class="nav-link" data-filter="admit_card">Admit Card</a>
-                <a href="#" class="nav-link" data-filter="answer_key">Answer Key</a>
-                <a href="#" class="nav-link" data-filter="result">Result</a>
-                <a href="#" class="nav-link" data-filter="syllabus">Syllabus</a>
-                <a href="#" class="nav-link" data-filter="update">Updates</a>
-            </nav>
-            <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-                <span></span><span></span><span></span>
-            </button>
+            <div class="header-search">
+                <svg class="hs-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+                <input type="text" id="searchInput" class="hs-input" placeholder="Search jobs, exams, organisations...">
+                <button class="hs-clear" id="searchClear" hidden>&times;</button>
+            </div>
+            <div class="header-actions">
+                <a href="https://t.me/govtjobs_daily_updates" target="_blank" class="header-cta telegram-cta-btn">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg>
+                    Join
+                </a>
+                <a href="https://whatsapp.com/channel/YOUR_CHANNEL" target="_blank" class="header-cta whatsapp-cta-btn">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+                    WhatsApp
+                </a>
+            </div>
         </div>
     </header>
 
-    <!-- Mobile Tab Bar (visible only on mobile) -->
+    <!-- ====== MOBILE TAB BAR ====== -->
     <div class="mobile-tabs" id="mobileTabs">
-        <div class="mobile-tabs-inner">
-            <button class="mobile-tab active" data-filter="all">📋 All</button>
-            <button class="mobile-tab" data-filter="recruitment">💼 Recruitment</button>
-            <button class="mobile-tab" data-filter="admit_card">🎟️ Admit Card</button>
-            <button class="mobile-tab" data-filter="answer_key">📝 Answer Key</button>
-            <button class="mobile-tab" data-filter="result">📊 Result</button>
-            <button class="mobile-tab" data-filter="syllabus">📖 Syllabus</button>
-            <button class="mobile-tab" data-filter="update">🔔 Updates</button>
+        <div class="mobile-tabs-inner" id="mobileTabsInner">
+            <button class="mobile-tab active" data-filter="all">All</button>
+            <button class="mobile-tab" data-filter="recruitment">Recruitment</button>
+            <button class="mobile-tab" data-filter="admit_card">Admit Card</button>
+            <button class="mobile-tab" data-filter="answer_key">Answer Key</button>
+            <button class="mobile-tab" data-filter="result">Result</button>
+            <button class="mobile-tab" data-filter="syllabus">Syllabus</button>
+            <button class="mobile-tab" data-filter="update">Updates</button>
         </div>
     </div>
 
-    <section class="hero">
-        <div class="container">
-            <h1 class="hero-title">Your Gateway to<br><span class="gradient-text">Government Careers</span></h1>
-            <p class="hero-subtitle">Verified job alerts, admit cards, results &amp; answer keys — all in one place with direct official links.</p>
-            <div class="search-wrapper">
-                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-                <input type="text" id="searchInput" class="search-input" placeholder="Search jobs, organizations, exams...">
-                <button class="search-clear" id="searchClear" hidden>&times;</button>
+    <!-- ====== DESKTOP NAV BAR ====== -->
+    <nav class="desktop-nav" id="desktopNav">
+        <div class="container nav-inner">
+            <a href="#" class="dnav-link active" data-filter="all">All Updates</a>
+            <a href="#" class="dnav-link" data-filter="recruitment">Recruitment</a>
+            <a href="#" class="dnav-link" data-filter="admit_card">Admit Card</a>
+            <a href="#" class="dnav-link" data-filter="answer_key">Answer Key</a>
+            <a href="#" class="dnav-link" data-filter="result">Result</a>
+            <a href="#" class="dnav-link" data-filter="syllabus">Syllabus</a>
+            <a href="#" class="dnav-link" data-filter="update">Updates</a>
+        </div>
+    </nav>
+
+    <!-- ====== HERO BANNER ====== -->
+    <section class="hero" id="heroSection">
+        <div class="container hero-inner">
+            <div class="hero-content">
+                <h1 class="hero-title">Your Gateway to <span class="hero-highlight">Government Careers</span></h1>
+                <p class="hero-desc">Verified job alerts, admit cards, results &amp; answer keys — all in one place with direct official links. Updated daily.</p>
             </div>
-            <div class="hero-stats" id="heroStats">
-                <div class="stat"><span class="stat-num" id="statTotal">0</span><span class="stat-label">Total Alerts</span></div>
-                <div class="stat"><span class="stat-num" id="statRecruitment">0</span><span class="stat-label">Recruitment</span></div>
-                <div class="stat"><span class="stat-num" id="statAdmit">0</span><span class="stat-label">Admit Card</span></div>
-                <div class="stat"><span class="stat-num" id="statResult">0</span><span class="stat-label">Results</span></div>
+            <div class="hero-stats">
+                <div class="hstat"><span class="hstat-num" id="statTotal">0</span><span class="hstat-label">Total Alerts</span></div>
+                <div class="hstat"><span class="hstat-num" id="statRecruitment">0</span><span class="hstat-label">Recruitment</span></div>
+                <div class="hstat"><span class="hstat-num" id="statAdmit">0</span><span class="hstat-label">Admit Cards</span></div>
+                <div class="hstat"><span class="hstat-num" id="statResult">0</span><span class="hstat-label">Results</span></div>
             </div>
         </div>
     </section>
 
-    <section class="filters-section">
-        <div class="container">
-            <div class="filter-group">
-                <span class="filter-label">Category:</span>
-                <div class="filter-chips" id="categoryFilters">
-                    <button class="chip active" data-value="all">All</button>
-                    <button class="chip" data-value="Banking">🏦 Banking</button>
-                    <button class="chip" data-value="Defence">🛡️ Defence</button>
-                    <button class="chip" data-value="State Govt">🏛️ State Govt</button>
-                    <button class="chip" data-value="UPSC">📜 UPSC</button>
-                    <button class="chip" data-value="PSU">🏭 PSU</button>
-                    <button class="chip" data-value="Teaching">📚 Teaching</button>
-                    <button class="chip" data-value="Medical">🏥 Medical</button>
-                    <button class="chip" data-value="Engineering">⚙️ Engineering</button>
+    <!-- ====== MAIN CONTENT AREA ====== -->
+    <div class="site-body">
+        <div class="container body-inner">
+
+            <!-- LEFT: Main Content -->
+            <main class="main-content" id="mainContent">
+
+                <!-- FILTER BAR -->
+                <div class="filter-bar" id="filterBar">
+                    <div class="filter-row">
+                        <div class="filter-chips" id="categoryFilters">
+                            <button class="fchip active" data-value="all">All</button>
+                            <button class="fchip" data-value="Banking">Banking</button>
+                            <button class="fchip" data-value="Defence">Defence</button>
+                            <button class="fchip" data-value="State Govt">State Govt</button>
+                            <button class="fchip" data-value="UPSC">UPSC</button>
+                            <button class="fchip" data-value="PSU">PSU</button>
+                            <button class="fchip" data-value="Teaching">Teaching</button>
+                            <button class="fchip" data-value="Medical">Medical</button>
+                            <button class="fchip" data-value="Engineering">Engineering</button>
+                        </div>
+                        <div class="filter-right">
+                            <select id="sortSelect" class="sort-select">
+                                <option value="deadline" selected>Last Date (Far &rarr; Close)</option>
+                                <option value="deadline_soon">Deadline Soon</option>
+                                <option value="newest">Newest First</option>
+                                <option value="oldest">Oldest First</option>
+                            </select>
+                            <div class="view-toggle">
+                                <button class="vbtn active" data-view="grid" title="Grid">&#9638;</button>
+                                <button class="vbtn" data-view="list" title="List">&#9776;</button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="filter-group">
-                <span class="filter-label">Sort:</span>
-                <select id="sortSelect" class="sort-select">
-                    <option value="deadline" selected>Last Date (Far → Close)</option>
-                    <option value="deadline_soon">Deadline Soon</option>
-                    <option value="newest">Newest First</option>
-                    <option value="oldest">Oldest First</option>
-                </select>
-            </div>
-        </div>
-    </section>
 
-    <main class="main">
-        <div class="container">
-            <div class="results-bar" id="resultsBar">
-                <span id="resultCount">Loading...</span>
-                <div class="view-toggle">
-                    <button class="view-btn active" data-view="grid" title="Grid view">▦</button>
-                    <button class="view-btn" data-view="list" title="List view">☰</button>
+                <!-- Section header (dynamic) -->
+                <div class="section-header" id="sectionHeader">
+                    <h2 class="section-title" id="sectionTitle">Latest Government Job Notifications</h2>
+                    <span class="section-count" id="sectionCount">Loading...</span>
                 </div>
-            </div>
-            <div class="job-grid" id="jobGrid">
-                <div class="skeleton-card"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
-                <div class="skeleton-card"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
-                <div class="skeleton-card"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
-                <div class="skeleton-card"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
-                <div class="skeleton-card"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
-                <div class="skeleton-card"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
-            </div>
-            <div class="load-more-wrapper" id="loadMoreWrapper" hidden>
-                <button class="load-more-btn" id="loadMoreBtn">Load More Updates</button>
-            </div>
-            <div class="no-results" id="noResults" hidden>
-                <div class="no-results-icon">🔍</div>
-                <h3>No updates found</h3>
-                <p>Try changing your filters or search query.</p>
-            </div>
-        </div>
-    </main>
 
-    <section class="telegram-cta">
-        <div class="container cta-inner">
-            <div class="cta-text">
-                <h2>📱 Get Instant Alerts on Telegram</h2>
-                <p>Join our channel for real-time government job notifications delivered straight to your phone.</p>
-            </div>
-            <a href="https://t.me/govtjobs_daily_updates" target="_blank" class="cta-button">Join Channel →</a>
-        </div>
-    </section>
+                <!-- Job Grid -->
+                <div class="job-grid" id="jobGrid">
+                    <div class="skel-card"><div class="skel skel-badge"></div><div class="skel skel-title"></div><div class="skel skel-meta"></div><div class="skel skel-meta short"></div><div class="skel skel-footer"></div></div>
+                    <div class="skel-card"><div class="skel skel-badge"></div><div class="skel skel-title"></div><div class="skel skel-meta"></div><div class="skel skel-meta short"></div><div class="skel skel-footer"></div></div>
+                    <div class="skel-card"><div class="skel skel-badge"></div><div class="skel skel-title"></div><div class="skel skel-meta"></div><div class="skel skel-meta short"></div><div class="skel skel-footer"></div></div>
+                    <div class="skel-card"><div class="skel skel-badge"></div><div class="skel skel-title"></div><div class="skel skel-meta"></div><div class="skel skel-meta short"></div><div class="skel skel-footer"></div></div>
+                    <div class="skel-card"><div class="skel skel-badge"></div><div class="skel skel-title"></div><div class="skel skel-meta"></div><div class="skel skel-meta short"></div><div class="skel skel-footer"></div></div>
+                    <div class="skel-card"><div class="skel skel-badge"></div><div class="skel skel-title"></div><div class="skel skel-meta"></div><div class="skel skel-meta short"></div><div class="skel skel-footer"></div></div>
+                </div>
 
+                <!-- Load More -->
+                <div class="load-more-area" id="loadMoreArea" hidden>
+                    <button class="load-more-btn" id="loadMoreBtn">Load More Updates</button>
+                </div>
+
+                <!-- No Results -->
+                <div class="no-results" id="noResults" hidden>
+                    <div class="nr-icon">&#128269;</div>
+                    <h3>No updates found</h3>
+                    <p>Try changing your filters or search query.</p>
+                </div>
+
+                <!-- BROWSE BY STATE -->
+                <section class="browse-section" id="browseState">
+                    <h2 class="browse-heading">Browse by State / UT</h2>
+                    <div class="browse-grid state-grid" id="stateGrid"></div>
+                </section>
+
+                <!-- BROWSE BY QUALIFICATION -->
+                <section class="browse-section" id="browseQual">
+                    <h2 class="browse-heading">Browse by Qualification</h2>
+                    <div class="browse-grid qual-grid" id="qualGrid"></div>
+                </section>
+
+                <!-- WHY CHOOSE US -->
+                <section class="trust-section">
+                    <h2 class="trust-heading">Why Choose GovtJobs Daily?</h2>
+                    <div class="trust-grid">
+                        <div class="trust-card">
+                            <div class="trust-icon">&#9889;</div>
+                            <h3>Instant Updates</h3>
+                            <p>Get notified within minutes of official announcements. No delays, no missed deadlines.</p>
+                        </div>
+                        <div class="trust-card">
+                            <div class="trust-icon">&#128274;</div>
+                            <h3>Verified Links</h3>
+                            <p>Every link is verified and points directly to the official source. No fake or redirected URLs.</p>
+                        </div>
+                        <div class="trust-card">
+                            <div class="trust-icon">&#128241;</div>
+                            <h3>Telegram & WhatsApp</h3>
+                            <p>Receive alerts directly on your phone via our Telegram channel and WhatsApp updates.</p>
+                        </div>
+                        <div class="trust-card">
+                            <div class="trust-icon">&#127919;</div>
+                            <h3>All Categories</h3>
+                            <p>Recruitment, admit cards, results, answer keys, syllabus — everything in one place.</p>
+                        </div>
+                        <div class="trust-card">
+                            <div class="trust-icon">&#128176;</div>
+                            <h3>100% Free</h3>
+                            <p>No hidden charges, no premium plans. All government job information is completely free.</p>
+                        </div>
+                        <div class="trust-card">
+                            <div class="trust-icon">&#128200;</div>
+                            <h3>Deadline Tracking</h3>
+                            <p>Visual deadline indicators help you prioritize. Never miss an application last date again.</p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- FAQ -->
+                <section class="faq-section" id="faqSection">
+                    <h2 class="faq-heading">Frequently Asked Questions</h2>
+                    <div class="faq-list">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>How often is the website updated?</span>
+                                <span class="faq-arrow">&#9660;</span>
+                            </button>
+                            <div class="faq-a">
+                                <p>We update our website multiple times daily by fetching the latest notifications from official government sources. Our Telegram and WhatsApp channels provide instant alerts as soon as new notifications are published.</p>
+                            </div>
+                        </div>
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>Are the application links official?</span>
+                                <span class="faq-arrow">&#9660;</span>
+                            </button>
+                            <div class="faq-a">
+                                <p>Yes, every link on our website points directly to the official government website or portal. We never use shortened or redirected URLs. Each notification includes the direct apply online link, official website link, and notification PDF link.</p>
+                            </div>
+                        </div>
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>How can I get instant job alerts on my phone?</span>
+                                <span class="faq-arrow">&#9660;</span>
+                            </button>
+                            <div class="faq-a">
+                                <p>You can join our Telegram channel or WhatsApp channel using the buttons in the header. We post every new notification there instantly. You can also bookmark this website and check back daily for the latest updates.</p>
+                            </div>
+                        </div>
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>Does this website cover all states and central government jobs?</span>
+                                <span class="faq-arrow">&#9660;</span>
+                            </button>
+                            <div class="faq-a">
+                                <p>We cover central government jobs (UPSC, SSC, Railway, Banking, Defence, PSU, Teaching) as well as state government jobs from all 36 states and union territories of India. Use the "Browse by State" section to find jobs specific to your state.</p>
+                            </div>
+                        </div>
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>Is there any fee for using this service?</span>
+                                <span class="faq-arrow">&#9660;</span>
+                            </button>
+                            <div class="faq-a">
+                                <p>No, GovtJobs Daily is completely free to use. We do not charge any fee for job notifications, admit card links, or result updates. Beware of websites or people asking for money in exchange for government job information.</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+            </main>
+
+            <!-- RIGHT: Sidebar -->
+            <aside class="sidebar" id="sidebar">
+                <!-- Join CTA -->
+                <div class="sb-card sb-cta">
+                    <div class="sb-cta-icon">&#128227;</div>
+                    <h3>Never Miss an Update</h3>
+                    <p>Get instant alerts on Telegram & WhatsApp</p>
+                    <a href="https://t.me/govtjobs_daily_updates" target="_blank" class="sb-btn sb-btn-tg">Join Telegram</a>
+                    <a href="#" class="sb-btn sb-btn-wa">Join WhatsApp</a>
+                </div>
+
+                <!-- Trending -->
+                <div class="sb-card">
+                    <h3 class="sb-title">&#128293; Trending Now</h3>
+                    <div class="sb-list" id="sidebarTrending"></div>
+                </div>
+
+                <!-- Quick Links -->
+                <div class="sb-card">
+                    <h3 class="sb-title">&#128204; Quick Links</h3>
+                    <div class="sb-quick-links">
+                        <a href="#" onclick="setActiveFilter('recruitment');return false;" class="sb-link">Latest Recruitment</a>
+                        <a href="#" onclick="setActiveFilter('admit_card');return false;" class="sb-link">Admit Cards</a>
+                        <a href="#" onclick="setActiveFilter('result');return false;" class="sb-link">Exam Results</a>
+                        <a href="#" onclick="setActiveFilter('answer_key');return false;" class="sb-link">Answer Keys</a>
+                        <a href="#" onclick="setActiveFilter('syllabus');return false;" class="sb-link">Syllabus</a>
+                    </div>
+                </div>
+
+                <!-- By Qualification -->
+                <div class="sb-card">
+                    <h3 class="sb-title">&#127891; By Qualification</h3>
+                    <div class="sb-qual-links" id="sidebarQual"></div>
+                </div>
+
+                <!-- Central Govt -->
+                <div class="sb-card">
+                    <h3 class="sb-title">&#127981; Central Govt Jobs</h3>
+                    <div class="sb-quick-links">
+                        <a href="#" class="sb-link" data-cat="UPSC">UPSC Jobs</a>
+                        <a href="#" class="sb-link" data-cat="Banking">Banking Jobs</a>
+                        <a href="#" class="sb-link" data-cat="Defence">Defence Jobs</a>
+                        <a href="#" class="sb-link" data-cat="PSU">PSU Jobs</a>
+                        <a href="#" class="sb-link" data-cat="Teaching">Teaching Jobs</a>
+                        <a href="#" class="sb-link" data-cat="Engineering">Engineering Jobs</a>
+                        <a href="#" class="sb-link" data-cat="Medical">Medical Jobs</a>
+                    </div>
+                </div>
+            </aside>
+
+        </div>
+    </div>
+
+    <!-- ====== FOOTER ====== -->
     <footer class="footer">
-        <div class="container footer-inner">
-            <div class="footer-brand">
-                <span class="logo-icon">📢</span>
-                <span class="footer-name">GovtJobs Daily</span>
-                <p class="footer-desc">Aggregating verified government job updates from official sources across India. We do not represent any government body.</p>
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <div class="footer-brand">
+                        <div class="logo-mark">GJ</div>
+                        <div>
+                            <div class="footer-name">GovtJobs Daily</div>
+                            <p class="footer-desc">Aggregating verified government job updates from official sources across India. We do not represent any government body.</p>
+                        </div>
+                    </div>
+                    <div class="footer-social">
+                        <a href="https://t.me/govtjobs_daily_updates" target="_blank" class="fs-link fs-tg">Telegram</a>
+                        <a href="#" class="fs-link fs-wa">WhatsApp</a>
+                    </div>
+                </div>
+                <div class="footer-col">
+                    <h4>Central Govt Jobs</h4>
+                    <a href="#" data-cat="UPSC">UPSC</a>
+                    <a href="#" data-cat="Banking">Banking / IBPS</a>
+                    <a href="#" data-cat="Defence">Defence / Army / Navy</a>
+                    <a href="#" data-cat="PSU">PSU</a>
+                    <a href="#" data-cat="Teaching">Teaching</a>
+                    <a href="#" data-cat="Engineering">Engineering</a>
+                    <a href="#" data-cat="Medical">Medical</a>
+                </div>
+                <div class="footer-col">
+                    <h4>Quick Links</h4>
+                    <a href="#" onclick="setActiveFilter('recruitment');return false;">Recruitment</a>
+                    <a href="#" onclick="setActiveFilter('admit_card');return false;">Admit Cards</a>
+                    <a href="#" onclick="setActiveFilter('result');return false;">Results</a>
+                    <a href="#" onclick="setActiveFilter('answer_key');return false;">Answer Keys</a>
+                    <a href="#" onclick="setActiveFilter('syllabus');return false;">Syllabus</a>
+                    <a href="#" onclick="setActiveFilter('update');return false;">Updates</a>
+                </div>
+                <div class="footer-col">
+                    <h4>Browse by State</h4>
+                    <div class="footer-states" id="footerStates"></div>
+                </div>
             </div>
-            <div class="footer-links">
-                <h4>Quick Links</h4>
-                <a href="/">Home</a>
-                <a href="https://t.me/govtjobs_daily_updates" target="_blank">Telegram Channel</a>
-            </div>
-            <div class="footer-links">
-                <h4>Categories</h4>
-                <a href="#" onclick="filterByType('recruitment')">Recruitment</a>
-                <a href="#" onclick="filterByType('admit_card')">Admit Card</a>
-                <a href="#" onclick="filterByType('answer_key')">Answer Keys</a>
-                <a href="#" onclick="filterByType('result')">Results</a>
-                <a href="#" onclick="filterByType('syllabus')">Syllabus</a>
-            </div>
-        </div>
-        <div class="footer-bottom">
-            <div class="container">
+            <div class="footer-bottom">
                 <p>&copy; 2026 GovtJobs Daily. All information sourced from official websites. Not affiliated with any government organization.</p>
             </div>
         </div>
