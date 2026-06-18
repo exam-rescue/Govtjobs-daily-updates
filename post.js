@@ -39,7 +39,7 @@ async function loadAndRender() {
     }
 
     try {
-        const resp = await fetch('data/jobs.json');
+        const resp = await fetch('data/posts_full.json');
         if (!resp.ok) throw new Error('Failed to load');
         allJobs = await resp.json();
 
