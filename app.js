@@ -61,12 +61,17 @@ function setupEventListeners() {
     document.querySelectorAll('.nav-link').forEach(link => {
         link.addEventListener('click', e => {
             e.preventDefault();
-            document.querySelectorAll('.nav-link').forEach(l => l.classList.remove('active'));
-            link.classList.add('active');
-            activeType = link.dataset.filter;
-            currentPage = 0;
-            applyFilters();
+            setActiveFilter(link.dataset.filter);
             document.getElementById('mainNav').classList.remove('open');
+        });
+    });
+
+    // Mobile tab bar clicks
+    document.querySelectorAll('.mobile-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+            setActiveFilter(tab.dataset.filter);
+            // Auto-scroll active tab into view
+            tab.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
         });
     });
 
@@ -99,19 +104,24 @@ function setupEventListeners() {
         currentPage++;
         renderJobs(false);
     });
-
-    document.getElementById('mobileToggle').addEventListener('click', () => {
-        document.getElementById('mainNav').classList.toggle('open');
-    });
 }
 
-function filterByType(type) {
+function setActiveFilter(type) {
     activeType = type;
+    currentPage = 0;
+    // Desktop nav
     document.querySelectorAll('.nav-link').forEach(l => {
         l.classList.toggle('active', l.dataset.filter === type);
     });
-    currentPage = 0;
+    // Mobile tabs
+    document.querySelectorAll('.mobile-tab').forEach(t => {
+        t.classList.toggle('active', t.dataset.filter === type);
+    });
     applyFilters();
+}
+
+function filterByType(type) {
+    setActiveFilter(type);
     window.scrollTo({ top: 0, behavior: 'smooth' });
     return false;
 }

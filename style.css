@@ -50,6 +50,45 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
 .mobile-toggle { display: none; flex-direction: column; gap: 5px; padding: 8px; }
 .mobile-toggle span { display: block; width: 22px; height: 2px; background: var(--text); border-radius: 2px; transition: .3s; }
 
+/* ========== MOBILE TAB BAR ========== */
+.mobile-tabs {
+    display: none;
+    background: var(--surface);
+    border-bottom: 1.5px solid var(--border);
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    position: sticky;
+    top: 60px;
+    z-index: 95;
+}
+.mobile-tabs::-webkit-scrollbar { display: none; }
+.mobile-tabs-inner {
+    display: flex;
+    gap: 4px;
+    padding: 10px 16px;
+    min-width: max-content;
+}
+.mobile-tab {
+    padding: 7px 16px;
+    border-radius: 50px;
+    font-size: 12.5px;
+    font-weight: 600;
+    white-space: nowrap;
+    color: var(--text-secondary);
+    background: var(--bg);
+    border: 1.5px solid var(--border);
+    transition: all .2s;
+    cursor: pointer;
+}
+.mobile-tab:active { transform: scale(0.96); }
+.mobile-tab.active {
+    background: var(--primary);
+    color: white;
+    border-color: var(--primary);
+    box-shadow: 0 2px 8px rgba(30,64,175,.25);
+}
+
 /* ========== HERO ========== */
 .hero { padding: 48px 0 32px; text-align: center; background: linear-gradient(135deg, #eff6ff 0%, #f0f9ff 50%, #fef3c7 100%); }
 .hero-title { font-size: clamp(24px, 5vw, 44px); font-weight: 800; line-height: 1.2; margin-bottom: 12px; color: var(--text); }
@@ -265,21 +304,25 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
 
 /* ========== RESPONSIVE ========== */
 @media (max-width: 768px) {
-    .nav { display: none; position: absolute; top: 60px; left: 0; right: 0; background: var(--surface); border-bottom: 1px solid var(--border); flex-direction: column; padding: 12px; box-shadow: var(--shadow); }
-    .nav.open { display: flex; }
-    .mobile-toggle { display: flex; }
-    .hero { padding: 32px 0 24px; }
-    .hero-stats { gap: 20px; }
-    .stat-num { font-size: 20px; }
+    .nav { display: none; }
+    .mobile-toggle { display: none; }
+    .mobile-tabs { display: block; }
+    .hero { padding: 28px 0 20px; }
+    .hero-stats { gap: 16px; }
+    .stat-num { font-size: 18px; }
+    .stat-label { font-size: 10px; }
     .job-grid { grid-template-columns: 1fr; }
     .cta-inner { flex-direction: column; text-align: center; }
     .footer-inner { grid-template-columns: 1fr; gap: 24px; }
     .filter-label { min-width: auto; }
+    .filter-group { gap: 6px; }
+    .chip { padding: 5px 10px; font-size: 11px; }
     .list-view .job-card { flex-direction: column; }
     .list-view .card-header { min-width: auto; }
     .post-page { padding: 16px 14px 40px; }
     .links-grid { flex-direction: column; }
     .share-bar { flex-wrap: wrap; }
+    .filters-section { top: 110px; }
 }
 @media (max-width: 480px) {
     .hero-title { font-size: 22px; }
