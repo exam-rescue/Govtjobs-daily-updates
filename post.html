@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loading... — GovtJobs Daily</title>
+    <meta name="description" content="Read the full details about this government job notification on GovtJobs Daily.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📋</text></svg>">
+</head>
+<body>
+    <header class="header">
+        <div class="container header-inner">
+            <a href="/" class="logo">
+                <span class="logo-icon">📢</span>
+                <div class="logo-text">
+                    <span class="logo-title">GovtJobs Daily</span>
+                    <span class="logo-sub">Sarkari Naukri Alerts</span>
+                </div>
+            </a>
+            <nav class="nav" id="mainNav">
+                <a href="/">All Updates</a>
+                <a href="/?filter=recruitment">Recruitment</a>
+                <a href="/?filter=admit_card">Admit Card</a>
+                <a href="/?filter=answer_key">Answer Key</a>
+                <a href="/?filter=result">Result</a>
+                <a href="/?filter=syllabus">Syllabus</a>
+                <a href="/?filter=update">Updates</a>
+            </nav>
+            <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </header>
+
+    <div class="post-page" id="postPage">
+        <div class="post-loading" id="postLoading">
+            <div class="spinner"></div>
+            <p>Loading post details...</p>
+        </div>
+        <div class="post-not-found" id="postNotFound" hidden>
+            <div style="font-size:48px;margin-bottom:16px">😕</div>
+            <h2>Post Not Found</h2>
+            <p>The post you're looking for doesn't exist or has been removed.</p>
+            <a href="/" class="back-btn">← Back to Home</a>
+        </div>
+        <div id="postContent" hidden></div>
+    </div>
+
+    <section class="telegram-cta" id="telegramCta" hidden>
+        <div class="container cta-inner">
+            <div class="cta-text">
+                <h2>📱 Get Instant Alerts on Telegram</h2>
+                <p>Join our channel for real-time government job notifications.</p>
+            </div>
+            <a href="https://t.me/govtjobs_daily_updates" target="_blank" class="cta-button">Join Channel →</a>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container footer-inner">
+            <div class="footer-brand">
+                <span class="logo-icon">📢</span>
+                <span class="footer-name">GovtJobs Daily</span>
+                <p class="footer-desc">Aggregating verified government job updates from official sources across India. We do not represent any government body.</p>
+            </div>
+            <div class="footer-links">
+                <h4>Quick Links</h4>
+                <a href="/">Home</a>
+                <a href="https://t.me/govtjobs_daily_updates" target="_blank">Telegram Channel</a>
+            </div>
+            <div class="footer-links">
+                <h4>Categories</h4>
+                <a href="/">Recruitment</a>
+                <a href="/">Admit Card</a>
+                <a href="/">Results</a>
+                <a href="/">Answer Keys</a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <p>&copy; 2026 GovtJobs Daily. All information sourced from official websites. Not affiliated with any government organization.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="post.js"></script>
+</body>
+</html>

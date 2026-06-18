@@ -25,9 +25,10 @@
                 <a href="#" class="nav-link active" data-filter="all">All Updates</a>
                 <a href="#" class="nav-link" data-filter="recruitment">Recruitment</a>
                 <a href="#" class="nav-link" data-filter="admit_card">Admit Card</a>
-                <a href="#" class="nav-link" data-filter="result">Result</a>
                 <a href="#" class="nav-link" data-filter="answer_key">Answer Key</a>
+                <a href="#" class="nav-link" data-filter="result">Result</a>
                 <a href="#" class="nav-link" data-filter="syllabus">Syllabus</a>
+                <a href="#" class="nav-link" data-filter="update">Updates</a>
             </nav>
             <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
                 <span></span><span></span><span></span>
@@ -37,7 +38,6 @@
 
     <section class="hero">
         <div class="container">
-            <div class="hero-badge">🔥 Updated Daily</div>
             <h1 class="hero-title">Your Gateway to<br><span class="gradient-text">Government Careers</span></h1>
             <p class="hero-subtitle">Verified job alerts, admit cards, results &amp; answer keys — all in one place with direct official links.</p>
             <div class="search-wrapper">
@@ -73,9 +73,10 @@
             <div class="filter-group">
                 <span class="filter-label">Sort:</span>
                 <select id="sortSelect" class="sort-select">
+                    <option value="deadline" selected>Last Date (Far → Close)</option>
+                    <option value="deadline_soon">Deadline Soon</option>
                     <option value="newest">Newest First</option>
                     <option value="oldest">Oldest First</option>
-                    <option value="deadline">Deadline Soon</option>
                 </select>
             </div>
         </div>
@@ -91,12 +92,12 @@
                 </div>
             </div>
             <div class="job-grid" id="jobGrid">
-                <div class="skeleton-card" id="skeleton1"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
-                <div class="skeleton-card" id="skeleton2"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
-                <div class="skeleton-card" id="skeleton3"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
-                <div class="skeleton-card" id="skeleton4"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
-                <div class="skeleton-card" id="skeleton5"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
-                <div class="skeleton-card" id="skeleton6"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
+                <div class="skeleton-card"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
+                <div class="skeleton-card"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
+                <div class="skeleton-card"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
+                <div class="skeleton-card"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
+                <div class="skeleton-card"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
+                <div class="skeleton-card"><div class="skel skel-title"></div><div class="skel skel-text"></div><div class="skel skel-text short"></div><div class="skel skel-tags"></div></div>
             </div>
             <div class="load-more-wrapper" id="loadMoreWrapper" hidden>
                 <button class="load-more-btn" id="loadMoreBtn">Load More Updates</button>
@@ -115,7 +116,7 @@
                 <h2>📱 Get Instant Alerts on Telegram</h2>
                 <p>Join our channel for real-time government job notifications delivered straight to your phone.</p>
             </div>
-            <a href="https://t.me/govt_jobs_daily_updates" target="_blank" class="cta-button">Join Channel →</a>
+            <a href="https://t.me/govtjobs_daily_updates" target="_blank" class="cta-button">Join Channel →</a>
         </div>
     </section>
 
@@ -128,16 +129,16 @@
             </div>
             <div class="footer-links">
                 <h4>Quick Links</h4>
-                <a href="#">Home</a>
-                <a href="https://t.me/govt_jobs_daily_updates" target="_blank">Telegram Channel</a>
-                <a href="#">About</a>
+                <a href="/">Home</a>
+                <a href="https://t.me/govtjobs_daily_updates" target="_blank">Telegram Channel</a>
             </div>
             <div class="footer-links">
                 <h4>Categories</h4>
                 <a href="#" onclick="filterByType('recruitment')">Recruitment</a>
                 <a href="#" onclick="filterByType('admit_card')">Admit Card</a>
-                <a href="#" onclick="filterByType('result')">Results</a>
                 <a href="#" onclick="filterByType('answer_key')">Answer Keys</a>
+                <a href="#" onclick="filterByType('result')">Results</a>
+                <a href="#" onclick="filterByType('syllabus')">Syllabus</a>
             </div>
         </div>
         <div class="footer-bottom">
