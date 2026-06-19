@@ -23,9 +23,13 @@ const SECTION_ICONS = {
 let allJobs = [];
 
 document.addEventListener('DOMContentLoaded', () => {
-    document.getElementById('mobileToggle').addEventListener('click', () => {
-        document.getElementById('mainNav').classList.toggle('open');
-    });
+    const mobileToggle = document.getElementById('mobileToggle');
+    if (mobileToggle) {
+        mobileToggle.addEventListener('click', () => {
+            const mainNav = document.getElementById('mainNav');
+            if (mainNav) mainNav.classList.toggle('open');
+        });
+    }
     loadAndRender();
 });
 
@@ -216,7 +220,8 @@ function renderPost(job) {
     document.getElementById('postLoading').hidden = true;
     document.getElementById('postContent').hidden = false;
     document.getElementById('postContent').innerHTML = html;
-    document.getElementById('telegramCta').hidden = false;
+    const telegramCta = document.getElementById('telegramCta');
+    if (telegramCta) telegramCta.hidden = false;
 }
 
 function renderTable(data) {
