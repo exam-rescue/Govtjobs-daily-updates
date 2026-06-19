@@ -220,6 +220,28 @@ function renderPost(job) {
     document.getElementById('postLoading').hidden = true;
     document.getElementById('postContent').hidden = false;
     document.getElementById('postContent').innerHTML = html;
+    try {
+        var jsonLd = {
+            "@context": "https://schema.org",
+            "@type": "JobPosting",
+            "title": job.title,
+            "description": job.description || job.title,
+            "datePosted": job.posted_date || new Date().toISOString().split("T")[0],
+            "url": postUrl,
+            "hiringOrganization": {
+                "@type": "Organization",
+                "name": job.organization || "Government of India"
+            }
+        };
+        if (job.qualification) jsonLd.qualificationRequirements = job.qualification;
+        if (job.official_website) jsonLd.hiringOrganization.sameAs = job.official_website;
+        if (job.type === 'recruitment' && job.last_date) jsonLd.validThrough = job.last_date;
+        var s = document.createElement('script');
+        s.type = 'application/ld+json';
+        s.textContent = JSON.stringify(jsonLd);
+        document.head.appendChild(s);
+    } catch(e) {}
+
     const telegramCta = document.getElementById('telegramCta');
     if (telegramCta) telegramCta.hidden = false;
 }
