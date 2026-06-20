@@ -6,7 +6,7 @@ const PAGE_SIZE = 20;
 let activeType = 'all';
 let activeCategory = 'all';
 let searchQuery = '';
-let sortMode = 'deadline';
+let sortMode = 'newest';
 let viewMode = 'grid';
 
 const TYPE_CONFIG = {
