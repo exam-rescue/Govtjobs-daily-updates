@@ -192,7 +192,42 @@ function renderPost(job) {
 
     // Update meta description
     let metaDesc = document.querySelector('meta[name="description"]');
-    if (metaDesc) metaDesc.setAttribute('content', job.description || job.title);
+    if (metaDesc) metaDesc.setAttribute('content', (job.description || job.title).substring(0, 300));
+
+    // SEO: Update OG tags, canonical, Twitter cards
+    const ogTitle = document.getElementById('ogTitle');
+    const ogDesc = document.getElementById('ogDesc');
+    const ogUrl = document.getElementById('ogUrl');
+    const canonicalLink = document.getElementById('canonicalLink');
+    const twTitle = document.getElementById('twTitle');
+    const twDesc = document.getElementById('twDesc');
+    if (ogTitle) ogTitle.setAttribute('content', job.title);
+    if (ogDesc) ogDesc.setAttribute('content', (job.description || '').substring(0, 200));
+    if (ogUrl) ogUrl.setAttribute('content', postUrl);
+    if (canonicalLink) canonicalLink.setAttribute('href', postUrl);
+    if (twTitle) twTitle.setAttribute('content', job.title);
+    if (twDesc) twDesc.setAttribute('content', (job.description || '').substring(0, 200));
+
+    // SEO: Update JSON-LD Article schema in head
+    const jsonLdEl = document.getElementById('jsonLdArticle');
+    if (jsonLdEl) {
+        const schemaData = {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": job.title,
+            "description": (job.description || '').substring(0, 300),
+            "datePublished": job.sort_date || job.posted_date || '',
+            "dateModified": job.sort_date || job.posted_date || '',
+            "publisher": {
+                "@type": "Organization",
+                "name": "GovtJobs Daily",
+                "url": "https://govtjobs-daily-updates.pages.dev/"
+            },
+            "mainEntityOfPage": { "@type": "WebPage", "@id": postUrl }
+        };
+        if (job.organization) schemaData.author = {"@type": "Organization", "name": job.organization};
+        jsonLdEl.textContent = JSON.stringify(schemaData);
+    }
 
     // Breadcrumb
     const typeLabel = tc.label;
