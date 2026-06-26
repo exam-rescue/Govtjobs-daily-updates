@@ -3,5 +3,5 @@ Allow: /
 
 Sitemap: https://govtjobs-daily-updates.pages.dev/sitemap.xml
 
-User-agent: *
-Disallow: /data/
+# Crawl-delay to be gentle
+Crawl-delay: 1
