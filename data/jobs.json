@@ -204,7 +204,7 @@
     "official_link": "",
     "download_link": "https://recruitment.rajasthan.gov.in/",
     "official_website": "https://rsmssb.rajasthan.gov.in/",
-    "state": "",
+    "state": "Rajasthan",
     "posted_date": "2026-06-26",
     "sort_date": "2026-06-26",
     "sort_deadline": ""
@@ -534,7 +534,7 @@
     "official_link": "",
     "download_link": "",
     "official_website": "https://ssc.nic.in/",
-    "state": "",
+    "state": "Delhi",
     "posted_date": "2026-06-25",
     "sort_date": "2026-06-25",
     "sort_deadline": ""
@@ -564,7 +564,7 @@
     "official_link": "",
     "download_link": "",
     "official_website": "https://ssc.nic.in/",
-    "state": "",
+    "state": "Delhi",
     "posted_date": "2026-06-25",
     "sort_date": "2026-06-25",
     "sort_deadline": ""
@@ -594,7 +594,7 @@
     "official_link": "",
     "download_link": "",
     "official_website": "https://ssc.nic.in/",
-    "state": "",
+    "state": "Delhi",
     "posted_date": "2026-06-25",
     "sort_date": "2026-06-25",
     "sort_deadline": ""
@@ -1914,7 +1914,7 @@
     "official_link": "",
     "download_link": "",
     "official_website": "https://updeled.gov.in/",
-    "state": "",
+    "state": "Uttar Pradesh",
     "posted_date": "2026-06-22",
     "sort_date": "2026-06-22",
     "sort_deadline": ""
@@ -2364,7 +2364,7 @@
     "official_link": "",
     "download_link": "",
     "official_website": "",
-    "state": "Andaman and Nicobar Islands",
+    "state": "Andaman & Nicobar",
     "posted_date": "2026-06-21",
     "sort_date": "2026-06-21",
     "sort_deadline": ""
@@ -2784,7 +2784,7 @@
     "official_link": "",
     "download_link": "",
     "official_website": "https://uppbpb.gov.in/",
-    "state": "",
+    "state": "Uttar Pradesh",
     "posted_date": "2026-06-20",
     "sort_date": "2026-06-20",
     "sort_deadline": ""
@@ -2964,7 +2964,7 @@
     "official_link": "",
     "download_link": "",
     "official_website": "https://ssc.nic.in/",
-    "state": "",
+    "state": "Delhi",
     "posted_date": "2026-06-19",
     "sort_date": "2026-06-19",
     "sort_deadline": ""
@@ -2994,7 +2994,7 @@
     "official_link": "",
     "download_link": "",
     "official_website": "",
-    "state": "",
+    "state": "Delhi",
     "posted_date": "2026-06-19",
     "sort_date": "2026-06-19",
     "sort_deadline": ""
@@ -3084,7 +3084,7 @@
     "official_link": "",
     "download_link": "",
     "official_website": "https://ssc.nic.in/",
-    "state": "",
+    "state": "Delhi",
     "posted_date": "2026-06-19",
     "sort_date": "2026-06-19",
     "sort_deadline": ""
@@ -3114,7 +3114,7 @@
     "official_link": "",
     "download_link": "",
     "official_website": "https://dsssb.delhi.gov.in/",
-    "state": "",
+    "state": "Delhi",
     "posted_date": "2026-06-19",
     "sort_date": "2026-06-19",
     "sort_deadline": ""
@@ -3384,7 +3384,7 @@
     "official_link": "",
     "download_link": "",
     "official_website": "https://uppbpb.gov.in/",
-    "state": "",
+    "state": "Uttar Pradesh",
     "posted_date": "2026-06-19",
     "sort_date": "2026-06-19",
     "sort_deadline": ""
@@ -3414,7 +3414,7 @@
     "official_link": "",
     "download_link": "",
     "official_website": "",
-    "state": "",
+    "state": "Delhi",
     "posted_date": "2026-06-19",
     "sort_date": "2026-06-19",
     "sort_deadline": ""
@@ -3476,7 +3476,8 @@
     "official_website": "https://mpsconline.mizoram.gov.in/",
     "posted_date": "2026-06-19",
     "sort_date": "2026-06-19",
-    "sort_deadline": "2026-07-24"
+    "sort_deadline": "2026-07-24",
+    "state": "Maharashtra"
   },
   {
     "id": "5b8afc53cbc9",
@@ -3505,7 +3506,8 @@
     "official_website": "https://hssc.gov.in/",
     "posted_date": "2026-06-19",
     "sort_date": "2026-06-19",
-    "sort_deadline": "2026-07-03"
+    "sort_deadline": "2026-07-03",
+    "state": "Haryana"
   },
   {
     "id": "3b5f7464300b",
@@ -3534,7 +3536,8 @@
     "official_website": "https://www.tn.gov.in/",
     "posted_date": "2026-06-19",
     "sort_date": "2026-06-19",
-    "sort_deadline": "2026-06-25"
+    "sort_deadline": "2026-06-25",
+    "state": "Tamil Nadu"
   },
   {
     "id": "db86575382e5",
@@ -3563,7 +3566,8 @@
     "official_website": "https://delhi.cantt.gov.in/",
     "posted_date": "2026-06-19",
     "sort_date": "2026-06-19",
-    "sort_deadline": "2026-08-14"
+    "sort_deadline": "2026-08-14",
+    "state": "Delhi"
   },
   {
     "id": "dc15c01c8087",
@@ -3667,7 +3671,8 @@
     "posted_date": "2026-06-18",
     "sort_date": "2026-06-18",
     "sort_deadline": "2026-07-21",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=73bf8e0d84fe"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=73bf8e0d84fe",
+    "state": "Chhattisgarh"
   },
   {
     "id": "72e567c8a640",
@@ -3745,7 +3750,8 @@
     "posted_date": "2026-06-17",
     "sort_date": "2026-06-17",
     "sort_deadline": "2026-06-30",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=eda32c18f6e8"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=eda32c18f6e8",
+    "state": "Kerala"
   },
   {
     "id": "4df0cf41488a",
@@ -3771,7 +3777,8 @@
     "posted_date": "2026-06-17",
     "sort_date": "2026-06-17",
     "sort_deadline": "2026-07-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4df0cf41488a"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4df0cf41488a",
+    "state": "Tamil Nadu"
   },
   {
     "id": "6b959bc06d67",
@@ -3823,7 +3830,8 @@
     "posted_date": "2026-06-17",
     "sort_date": "2026-06-17",
     "sort_deadline": "2026-07-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=36429a6b62b2"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=36429a6b62b2",
+    "state": "Uttarakhand"
   },
   {
     "id": "512eda503e7c",
@@ -3875,7 +3883,8 @@
     "posted_date": "2026-06-16",
     "sort_date": "2026-06-16",
     "sort_deadline": "2026-06-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f76f7580f48f"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f76f7580f48f",
+    "state": "Gujarat"
   },
   {
     "id": "2d71bccd49e7",
@@ -3901,7 +3910,8 @@
     "posted_date": "2026-06-16",
     "sort_date": "2026-06-16",
     "sort_deadline": "2026-07-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=2d71bccd49e7"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=2d71bccd49e7",
+    "state": "Sikkim"
   },
   {
     "id": "60001f82032e",
@@ -3927,7 +3937,8 @@
     "posted_date": "2026-06-16",
     "sort_date": "2026-06-16",
     "sort_deadline": "2026-07-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=60001f82032e"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=60001f82032e",
+    "state": "Delhi"
   },
   {
     "id": "75b3236c372e",
@@ -4109,7 +4120,8 @@
     "posted_date": "2026-06-13",
     "sort_date": "2026-06-13",
     "sort_deadline": "2026-06-26",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5aca181aadda"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5aca181aadda",
+    "state": "Goa"
   },
   {
     "id": "84ade0b74bf4",
@@ -4135,7 +4147,8 @@
     "posted_date": "2026-06-13",
     "sort_date": "2026-06-13",
     "sort_deadline": "2026-06-29",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=84ade0b74bf4"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=84ade0b74bf4",
+    "state": "Gujarat"
   },
   {
     "id": "25eafe8a639a",
@@ -4161,7 +4174,8 @@
     "posted_date": "2026-06-13",
     "sort_date": "2026-06-13",
     "sort_deadline": "2026-06-29",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=25eafe8a639a"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=25eafe8a639a",
+    "state": "Gujarat"
   },
   {
     "id": "3c04eb19bc8b",
@@ -4187,7 +4201,8 @@
     "posted_date": "2026-06-13",
     "sort_date": "2026-06-13",
     "sort_deadline": "2026-07-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3c04eb19bc8b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3c04eb19bc8b",
+    "state": "Karnataka"
   },
   {
     "id": "ce9f28c026ec",
@@ -4213,7 +4228,8 @@
     "posted_date": "2026-06-13",
     "sort_date": "2026-06-13",
     "sort_deadline": "2026-07-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ce9f28c026ec"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ce9f28c026ec",
+    "state": "Punjab"
   },
   {
     "id": "7679eec938ed",
@@ -4317,7 +4333,8 @@
     "posted_date": "2026-06-13",
     "sort_date": "2026-06-13",
     "sort_deadline": "2026-07-17",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=d5bff048109b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=d5bff048109b",
+    "state": "Assam"
   },
   {
     "id": "9f316f5ed3ed",
@@ -4369,7 +4386,8 @@
     "posted_date": "2026-06-12",
     "sort_date": "2026-06-12",
     "sort_deadline": "2026-07-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=db011ed0ab98"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=db011ed0ab98",
+    "state": "Maharashtra"
   },
   {
     "id": "f31f196fffbd",
@@ -4395,7 +4413,8 @@
     "posted_date": "2026-06-12",
     "sort_date": "2026-06-12",
     "sort_deadline": "2026-07-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f31f196fffbd"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f31f196fffbd",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "3c3d52e0b3a9",
@@ -4421,7 +4440,8 @@
     "posted_date": "2026-06-12",
     "sort_date": "2026-06-12",
     "sort_deadline": "2026-07-04",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3c3d52e0b3a9"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3c3d52e0b3a9",
+    "state": "Jammu & Kashmir"
   },
   {
     "id": "e0a161d8ba50",
@@ -4447,7 +4467,8 @@
     "posted_date": "2026-06-12",
     "sort_date": "2026-06-12",
     "sort_deadline": "2026-07-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e0a161d8ba50"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e0a161d8ba50",
+    "state": "Assam"
   },
   {
     "id": "8c00fffe7d7e",
@@ -4473,7 +4494,8 @@
     "posted_date": "2026-06-11",
     "sort_date": "2026-06-11",
     "sort_deadline": "2026-06-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=8c00fffe7d7e"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=8c00fffe7d7e",
+    "state": "Haryana"
   },
   {
     "id": "0ebe18e6ca0e",
@@ -4499,7 +4521,8 @@
     "posted_date": "2026-06-11",
     "sort_date": "2026-06-11",
     "sort_deadline": "2026-07-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0ebe18e6ca0e"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0ebe18e6ca0e",
+    "state": "Delhi"
   },
   {
     "id": "d4d8f5be0e00",
@@ -4551,7 +4574,8 @@
     "posted_date": "2026-06-11",
     "sort_date": "2026-06-11",
     "sort_deadline": "2026-07-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=25887bd8bd84"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=25887bd8bd84",
+    "state": "Maharashtra"
   },
   {
     "id": "04ad85c59de3",
@@ -4603,7 +4627,8 @@
     "posted_date": "2026-06-11",
     "sort_date": "2026-06-11",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=dabf43cb649b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=dabf43cb649b",
+    "state": "Gujarat"
   },
   {
     "id": "6cbc1565b079",
@@ -4629,7 +4654,8 @@
     "posted_date": "2026-06-10",
     "sort_date": "2026-06-10",
     "sort_deadline": "2026-06-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=6cbc1565b079"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=6cbc1565b079",
+    "state": "Maharashtra"
   },
   {
     "id": "e82819a8a0a5",
@@ -4681,7 +4707,8 @@
     "posted_date": "2026-06-10",
     "sort_date": "2026-06-10",
     "sort_deadline": "2026-06-08",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=8f1d0fd68205"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=8f1d0fd68205",
+    "state": "Punjab"
   },
   {
     "id": "a7a7b9df42f8",
@@ -4707,7 +4734,8 @@
     "posted_date": "2026-06-10",
     "sort_date": "2026-06-10",
     "sort_deadline": "2026-07-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a7a7b9df42f8"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a7a7b9df42f8",
+    "state": "Rajasthan"
   },
   {
     "id": "0c3a4fef5b3e",
@@ -4733,7 +4761,8 @@
     "posted_date": "2026-06-10",
     "sort_date": "2026-06-10",
     "sort_deadline": "2026-08-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0c3a4fef5b3e"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0c3a4fef5b3e",
+    "state": "Arunachal Pradesh"
   },
   {
     "id": "ff918df8f7b7",
@@ -4837,7 +4866,8 @@
     "posted_date": "2026-06-09",
     "sort_date": "2026-06-09",
     "sort_deadline": "2026-06-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7ea1f78c2268"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7ea1f78c2268",
+    "state": "Gujarat"
   },
   {
     "id": "db7a17b83535",
@@ -4993,7 +5023,8 @@
     "posted_date": "2026-06-07",
     "sort_date": "2026-06-07",
     "sort_deadline": "2026-07-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c1c0c391f2bd"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c1c0c391f2bd",
+    "state": "West Bengal"
   },
   {
     "id": "bbbfcb724fa0",
@@ -5019,7 +5050,8 @@
     "posted_date": "2026-06-06",
     "sort_date": "2026-06-06",
     "sort_deadline": "2026-06-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=bbbfcb724fa0"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=bbbfcb724fa0",
+    "state": "Telangana"
   },
   {
     "id": "079a8713dd94",
@@ -5045,7 +5077,8 @@
     "posted_date": "2026-06-06",
     "sort_date": "2026-06-06",
     "sort_deadline": "2026-06-15",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=079a8713dd94"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=079a8713dd94",
+    "state": "Kerala"
   },
   {
     "id": "03f62d7dfca4",
@@ -5071,7 +5104,8 @@
     "posted_date": "2026-06-06",
     "sort_date": "2026-06-06",
     "sort_deadline": "2026-06-15",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=03f62d7dfca4"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=03f62d7dfca4",
+    "state": "Delhi"
   },
   {
     "id": "edbf404f7f83",
@@ -5097,7 +5131,8 @@
     "posted_date": "2026-06-06",
     "sort_date": "2026-06-06",
     "sort_deadline": "2026-06-19",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=edbf404f7f83"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=edbf404f7f83",
+    "state": "Goa"
   },
   {
     "id": "a61485711dbe",
@@ -5123,7 +5158,8 @@
     "posted_date": "2026-06-06",
     "sort_date": "2026-06-06",
     "sort_deadline": "2026-07-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a61485711dbe"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a61485711dbe",
+    "state": "Karnataka"
   },
   {
     "id": "8607e6034732",
@@ -5201,7 +5237,8 @@
     "posted_date": "2026-06-05",
     "sort_date": "2026-06-05",
     "sort_deadline": "2026-06-18",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=22310e35adc0"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=22310e35adc0",
+    "state": "Gujarat"
   },
   {
     "id": "d3ea41cdd2b0",
@@ -5331,7 +5368,8 @@
     "posted_date": "2026-06-05",
     "sort_date": "2026-06-05",
     "sort_deadline": "2026-07-17",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=36294de4a2ef"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=36294de4a2ef",
+    "state": "Goa"
   },
   {
     "id": "3144d44713dc",
@@ -5461,7 +5499,8 @@
     "posted_date": "2026-06-04",
     "sort_date": "2026-06-04",
     "sort_deadline": "2026-07-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=362ff371a9c2"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=362ff371a9c2",
+    "state": "Goa"
   },
   {
     "id": "f8b0cf0708e1",
@@ -5487,7 +5526,8 @@
     "posted_date": "2026-06-04",
     "sort_date": "2026-06-04",
     "sort_deadline": "2026-08-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f8b0cf0708e1"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f8b0cf0708e1",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "6217065f9fdb",
@@ -5565,7 +5605,8 @@
     "posted_date": "2026-06-03",
     "sort_date": "2026-06-03",
     "sort_deadline": "2026-07-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=fa148928d336"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=fa148928d336",
+    "state": "Rajasthan"
   },
   {
     "id": "d154f51cf9b8",
@@ -5591,7 +5632,8 @@
     "posted_date": "2026-06-03",
     "sort_date": "2026-06-03",
     "sort_deadline": "2026-07-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=d154f51cf9b8"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=d154f51cf9b8",
+    "state": "Goa"
   },
   {
     "id": "67932b082c86",
@@ -5721,7 +5763,8 @@
     "posted_date": "2026-06-02",
     "sort_date": "2026-06-02",
     "sort_deadline": "2026-07-15",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=d1a6bf477cb5"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=d1a6bf477cb5",
+    "state": "Delhi"
   },
   {
     "id": "5a355056dc87",
@@ -5773,7 +5816,8 @@
     "posted_date": "2026-05-31",
     "sort_date": "2026-05-31",
     "sort_deadline": "2026-06-29",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c0a0e741e129"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c0a0e741e129",
+    "state": "Karnataka"
   },
   {
     "id": "b68054bda3c9",
@@ -6059,7 +6103,8 @@
     "posted_date": "2026-05-28",
     "sort_date": "2026-05-28",
     "sort_deadline": "2026-06-30",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=91db04bcac2c"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=91db04bcac2c",
+    "state": "Uttarakhand"
   },
   {
     "id": "ee53037c2c69",
@@ -6111,7 +6156,8 @@
     "posted_date": "2026-05-28",
     "sort_date": "2026-05-28",
     "sort_deadline": "2026-07-07",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=8d715a6499ce"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=8d715a6499ce",
+    "state": "Rajasthan"
   },
   {
     "id": "632b567de7cd",
@@ -6137,7 +6183,8 @@
     "posted_date": "2026-05-27",
     "sort_date": "2026-05-27",
     "sort_deadline": "2026-07-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=632b567de7cd"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=632b567de7cd",
+    "state": "Rajasthan"
   },
   {
     "id": "3d054a2d4217",
@@ -6163,7 +6210,8 @@
     "posted_date": "2026-05-26",
     "sort_date": "2026-05-26",
     "sort_deadline": "2026-06-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3d054a2d4217"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3d054a2d4217",
+    "state": "Uttarakhand"
   },
   {
     "id": "4f71d0b78e05",
@@ -6267,7 +6315,8 @@
     "posted_date": "2026-05-26",
     "sort_date": "2026-05-26",
     "sort_deadline": "2026-07-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7e9fe7d14d69"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7e9fe7d14d69",
+    "state": "Jammu & Kashmir"
   },
   {
     "id": "63dd213c37a2",
@@ -6293,7 +6342,8 @@
     "posted_date": "2026-05-26",
     "sort_date": "2026-05-26",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=63dd213c37a2"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=63dd213c37a2",
+    "state": "Andhra Pradesh"
   },
   {
     "id": "30b789d4a2f4",
@@ -6397,7 +6447,8 @@
     "posted_date": "2026-05-24",
     "sort_date": "2026-05-24",
     "sort_deadline": "2026-06-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e8ed645d36ca"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e8ed645d36ca",
+    "state": "Karnataka"
   },
   {
     "id": "1a15e17ac2b1",
@@ -6501,7 +6552,8 @@
     "posted_date": "2026-05-24",
     "sort_date": "2026-05-24",
     "sort_deadline": "2026-06-23",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=16bf78e397ab"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=16bf78e397ab",
+    "state": "Haryana"
   },
   {
     "id": "9aaa40af6851",
@@ -6527,7 +6579,8 @@
     "posted_date": "2026-05-24",
     "sort_date": "2026-05-24",
     "sort_deadline": "2026-06-23",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=9aaa40af6851"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=9aaa40af6851",
+    "state": "Rajasthan"
   },
   {
     "id": "882bfc323980",
@@ -6553,7 +6606,8 @@
     "posted_date": "2026-05-24",
     "sort_date": "2026-05-24",
     "sort_deadline": "2026-06-25",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=882bfc323980"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=882bfc323980",
+    "state": "Nagaland"
   },
   {
     "id": "f5d843a0edbe",
@@ -6579,7 +6633,8 @@
     "posted_date": "2026-05-24",
     "sort_date": "2026-05-24",
     "sort_deadline": "2026-06-30",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f5d843a0edbe"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f5d843a0edbe",
+    "state": "Rajasthan"
   },
   {
     "id": "059154dcad59",
@@ -6605,7 +6660,8 @@
     "posted_date": "2026-05-24",
     "sort_date": "2026-05-24",
     "sort_deadline": "2026-07-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=059154dcad59"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=059154dcad59",
+    "state": "Telangana"
   },
   {
     "id": "3d0737538576",
@@ -6631,7 +6687,8 @@
     "posted_date": "2026-05-24",
     "sort_date": "2026-05-24",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3d0737538576"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3d0737538576",
+    "state": "Chhattisgarh"
   },
   {
     "id": "2684b59e6888",
@@ -6787,7 +6844,8 @@
     "posted_date": "2026-05-21",
     "sort_date": "2026-05-21",
     "sort_deadline": "2026-06-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=37bd1850c6f5"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=37bd1850c6f5",
+    "state": "Punjab"
   },
   {
     "id": "ee64b9e4740f",
@@ -6917,7 +6975,8 @@
     "posted_date": "2026-05-21",
     "sort_date": "2026-05-21",
     "sort_deadline": "2026-06-19",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ee8bda082c9e"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ee8bda082c9e",
+    "state": "Bihar"
   },
   {
     "id": "36cf7b3ac800",
@@ -6969,7 +7028,8 @@
     "posted_date": "2026-05-21",
     "sort_date": "2026-05-21",
     "sort_deadline": "2026-07-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=284f3483c71b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=284f3483c71b",
+    "state": "Odisha"
   },
   {
     "id": "010044ba5ffc",
@@ -6995,7 +7055,8 @@
     "posted_date": "2026-05-21",
     "sort_date": "2026-05-21",
     "sort_deadline": "2026-07-02",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=010044ba5ffc"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=010044ba5ffc",
+    "state": "Odisha"
   },
   {
     "id": "2e5576ef864d",
@@ -7073,7 +7134,8 @@
     "posted_date": "2026-05-19",
     "sort_date": "2026-05-19",
     "sort_deadline": "2026-05-27",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=81028b207573"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=81028b207573",
+    "state": "Maharashtra"
   },
   {
     "id": "a4fb17c38feb",
@@ -7307,7 +7369,8 @@
     "posted_date": "2026-05-19",
     "sort_date": "2026-05-19",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=fc0ef9b499dd"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=fc0ef9b499dd",
+    "state": "Karnataka"
   },
   {
     "id": "1939b1f0851c",
@@ -7359,7 +7422,8 @@
     "posted_date": "2026-05-17",
     "sort_date": "2026-05-17",
     "sort_deadline": "2026-05-26",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=dd08e8921846"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=dd08e8921846",
+    "state": "Kerala"
   },
   {
     "id": "29178cd03f7f",
@@ -7411,7 +7475,8 @@
     "posted_date": "2026-05-17",
     "sort_date": "2026-05-17",
     "sort_deadline": "2026-05-29",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=d350319910c4"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=d350319910c4",
+    "state": "Gujarat"
   },
   {
     "id": "9c42223d5982",
@@ -7593,7 +7658,8 @@
     "posted_date": "2026-05-16",
     "sort_date": "2026-05-16",
     "sort_deadline": "2026-06-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ad2dd90653cd"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ad2dd90653cd",
+    "state": "Delhi"
   },
   {
     "id": "f10117b81ee1",
@@ -7619,7 +7685,8 @@
     "posted_date": "2026-05-16",
     "sort_date": "2026-05-16",
     "sort_deadline": "2026-06-21",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f10117b81ee1"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f10117b81ee1",
+    "state": "Bihar"
   },
   {
     "id": "62694d968934",
@@ -7671,7 +7738,8 @@
     "posted_date": "2026-05-15",
     "sort_date": "2026-05-15",
     "sort_deadline": "2026-05-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0a5ed28f963d"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0a5ed28f963d",
+    "state": "Gujarat"
   },
   {
     "id": "a7ddcfae5bfe",
@@ -7697,7 +7765,8 @@
     "posted_date": "2026-05-15",
     "sort_date": "2026-05-15",
     "sort_deadline": "2026-06-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a7ddcfae5bfe"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a7ddcfae5bfe",
+    "state": "Rajasthan"
   },
   {
     "id": "718b2daa01e1",
@@ -7723,7 +7792,8 @@
     "posted_date": "2026-05-15",
     "sort_date": "2026-05-15",
     "sort_deadline": "2026-06-02",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=718b2daa01e1"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=718b2daa01e1",
+    "state": "Mizoram"
   },
   {
     "id": "976d2b6d1885",
@@ -7749,7 +7819,8 @@
     "posted_date": "2026-05-15",
     "sort_date": "2026-05-15",
     "sort_deadline": "2026-06-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=976d2b6d1885"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=976d2b6d1885",
+    "state": "Nagaland"
   },
   {
     "id": "a6754d1fdbd2",
@@ -7775,7 +7846,8 @@
     "posted_date": "2026-05-15",
     "sort_date": "2026-05-15",
     "sort_deadline": "2026-06-08",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a6754d1fdbd2"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a6754d1fdbd2",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "7e1efd3e3637",
@@ -7801,7 +7873,8 @@
     "posted_date": "2026-05-15",
     "sort_date": "2026-05-15",
     "sort_deadline": "2026-06-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7e1efd3e3637"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7e1efd3e3637",
+    "state": "Mizoram"
   },
   {
     "id": "cd23593882f4",
@@ -8139,7 +8212,8 @@
     "posted_date": "2026-05-13",
     "sort_date": "2026-05-13",
     "sort_deadline": "2026-07-28",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0d706389cc5c"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0d706389cc5c",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "187eb4383aae",
@@ -8191,7 +8265,8 @@
     "posted_date": "2026-05-13",
     "sort_date": "2026-05-13",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=58fea773fc73"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=58fea773fc73",
+    "state": "Telangana"
   },
   {
     "id": "67a431b8c495",
@@ -8347,7 +8422,8 @@
     "posted_date": "2026-05-12",
     "sort_date": "2026-05-12",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=1504aa00ba24"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=1504aa00ba24",
+    "state": "Tamil Nadu"
   },
   {
     "id": "8d63b5c731f3",
@@ -8451,7 +8527,8 @@
     "posted_date": "2026-05-10",
     "sort_date": "2026-05-10",
     "sort_deadline": "2026-06-02",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=cf3f9fcb0f06"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=cf3f9fcb0f06",
+    "state": "Goa"
   },
   {
     "id": "22b83dc5bd91",
@@ -8555,7 +8632,8 @@
     "posted_date": "2026-05-09",
     "sort_date": "2026-05-09",
     "sort_deadline": "2026-05-29",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=201c0049d5f5"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=201c0049d5f5",
+    "state": "Haryana"
   },
   {
     "id": "6ee8517f49c9",
@@ -8607,7 +8685,8 @@
     "posted_date": "2026-05-09",
     "sort_date": "2026-05-09",
     "sort_deadline": "2026-06-02",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7ed84a3cf696"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7ed84a3cf696",
+    "state": "Uttarakhand"
   },
   {
     "id": "ee645f1d9b8a",
@@ -8633,7 +8712,8 @@
     "posted_date": "2026-05-09",
     "sort_date": "2026-05-09",
     "sort_deadline": "2026-06-11",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ee645f1d9b8a"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ee645f1d9b8a",
+    "state": "Chhattisgarh"
   },
   {
     "id": "19038d1c78df",
@@ -8685,7 +8765,8 @@
     "posted_date": "2026-05-08",
     "sort_date": "2026-05-08",
     "sort_deadline": "2026-05-25",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4a06944c5454"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4a06944c5454",
+    "state": "Chandigarh"
   },
   {
     "id": "3c4b764e7092",
@@ -8711,7 +8792,8 @@
     "posted_date": "2026-05-08",
     "sort_date": "2026-05-08",
     "sort_deadline": "2026-06-12",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3c4b764e7092"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3c4b764e7092",
+    "state": "Odisha"
   },
   {
     "id": "78b19b4d1d3d",
@@ -8737,7 +8819,8 @@
     "posted_date": "2026-05-08",
     "sort_date": "2026-05-08",
     "sort_deadline": "2026-07-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=78b19b4d1d3d"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=78b19b4d1d3d",
+    "state": "Jharkhand"
   },
   {
     "id": "26fc9c232972",
@@ -8763,7 +8846,8 @@
     "posted_date": "2026-05-07",
     "sort_date": "2026-05-07",
     "sort_deadline": "2026-05-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=26fc9c232972"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=26fc9c232972",
+    "state": "Odisha"
   },
   {
     "id": "364c27b9d503",
@@ -8789,7 +8873,8 @@
     "posted_date": "2026-05-07",
     "sort_date": "2026-05-07",
     "sort_deadline": "2026-06-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=364c27b9d503"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=364c27b9d503",
+    "state": "Assam"
   },
   {
     "id": "ffd15d60446c",
@@ -8893,7 +8978,8 @@
     "posted_date": "2026-05-07",
     "sort_date": "2026-05-07",
     "sort_deadline": "2026-06-07",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f826c1373a93"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f826c1373a93",
+    "state": "Assam"
   },
   {
     "id": "b6379ed59c10",
@@ -8919,7 +9005,8 @@
     "posted_date": "2026-05-07",
     "sort_date": "2026-05-07",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b6379ed59c10"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b6379ed59c10",
+    "state": "Tamil Nadu"
   },
   {
     "id": "4591452603f9",
@@ -8945,7 +9032,8 @@
     "posted_date": "2026-05-06",
     "sort_date": "2026-05-06",
     "sort_deadline": "2026-05-19",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4591452603f9"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4591452603f9",
+    "state": "Goa"
   },
   {
     "id": "07e842cee056",
@@ -8971,7 +9059,8 @@
     "posted_date": "2026-05-06",
     "sort_date": "2026-05-06",
     "sort_deadline": "2026-05-19",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=07e842cee056"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=07e842cee056",
+    "state": "Goa"
   },
   {
     "id": "9de2ab79c8e8",
@@ -8997,7 +9086,8 @@
     "posted_date": "2026-05-06",
     "sort_date": "2026-05-06",
     "sort_deadline": "2026-05-31",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=9de2ab79c8e8"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=9de2ab79c8e8",
+    "state": "Bihar"
   },
   {
     "id": "e8e8c9f305df",
@@ -9101,7 +9191,8 @@
     "posted_date": "2026-05-06",
     "sort_date": "2026-05-06",
     "sort_deadline": "2026-06-04",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3c67d0dcfa75"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3c67d0dcfa75",
+    "state": "Chhattisgarh"
   },
   {
     "id": "ea3293da7c9f",
@@ -9231,7 +9322,8 @@
     "posted_date": "2026-05-03",
     "sort_date": "2026-05-03",
     "sort_deadline": "2026-05-21",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0cbfe9574a29"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0cbfe9574a29",
+    "state": "Karnataka"
   },
   {
     "id": "c5407aa4ec02",
@@ -9361,7 +9453,8 @@
     "posted_date": "2026-05-01",
     "sort_date": "2026-05-01",
     "sort_deadline": "2026-05-14",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a0fd561b79d1"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a0fd561b79d1",
+    "state": "Gujarat"
   },
   {
     "id": "9a942a3c0a65",
@@ -9387,7 +9480,8 @@
     "posted_date": "2026-05-01",
     "sort_date": "2026-05-01",
     "sort_deadline": "2026-05-21",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=9a942a3c0a65"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=9a942a3c0a65",
+    "state": "Maharashtra"
   },
   {
     "id": "7dbd664a6019",
@@ -9439,7 +9533,8 @@
     "posted_date": "2026-05-01",
     "sort_date": "2026-05-01",
     "sort_deadline": "2026-05-30",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a56293756b62"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a56293756b62",
+    "state": "Nagaland"
   },
   {
     "id": "b0cfc20d85ae",
@@ -9465,7 +9560,8 @@
     "posted_date": "2026-05-01",
     "sort_date": "2026-05-01",
     "sort_deadline": "2026-06-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b0cfc20d85ae"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b0cfc20d85ae",
+    "state": "Rajasthan"
   },
   {
     "id": "3eec45dd8c5f",
@@ -9491,7 +9587,8 @@
     "posted_date": "2026-05-01",
     "sort_date": "2026-05-01",
     "sort_deadline": "2026-06-08",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3eec45dd8c5f"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3eec45dd8c5f",
+    "state": "Odisha"
   },
   {
     "id": "a9891bf1f763",
@@ -9517,7 +9614,8 @@
     "posted_date": "2026-05-01",
     "sort_date": "2026-05-01",
     "sort_deadline": "2026-06-12",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a9891bf1f763"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a9891bf1f763",
+    "state": "Mizoram"
   },
   {
     "id": "427c052d1826",
@@ -9543,7 +9641,8 @@
     "posted_date": "2026-04-30",
     "sort_date": "2026-04-30",
     "sort_deadline": "2026-05-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=427c052d1826"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=427c052d1826",
+    "state": "Gujarat"
   },
   {
     "id": "ba02f3c2859b",
@@ -9569,7 +9668,8 @@
     "posted_date": "2026-04-30",
     "sort_date": "2026-04-30",
     "sort_deadline": "2026-05-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ba02f3c2859b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ba02f3c2859b",
+    "state": "Gujarat"
   },
   {
     "id": "53a5f24d3a91",
@@ -9595,7 +9695,8 @@
     "posted_date": "2026-04-30",
     "sort_date": "2026-04-30",
     "sort_deadline": "2026-05-22",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=53a5f24d3a91"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=53a5f24d3a91",
+    "state": "Chhattisgarh"
   },
   {
     "id": "f43b7ab74fb8",
@@ -9751,7 +9852,8 @@
     "posted_date": "2026-04-29",
     "sort_date": "2026-04-29",
     "sort_deadline": "2026-05-31",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f1e9c93b1140"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f1e9c93b1140",
+    "state": "Tripura"
   },
   {
     "id": "32e4e0664b4f",
@@ -9777,7 +9879,8 @@
     "posted_date": "2026-04-29",
     "sort_date": "2026-04-29",
     "sort_deadline": "2026-06-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=32e4e0664b4f"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=32e4e0664b4f",
+    "state": "Tripura"
   },
   {
     "id": "5e7215b7715f",
@@ -9881,7 +9984,8 @@
     "posted_date": "2026-04-28",
     "sort_date": "2026-04-28",
     "sort_deadline": "2026-05-08",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3399b2dfaf82"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3399b2dfaf82",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "4b0c7b870287",
@@ -9907,7 +10011,8 @@
     "posted_date": "2026-04-28",
     "sort_date": "2026-04-28",
     "sort_deadline": "2026-05-11",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4b0c7b870287"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4b0c7b870287",
+    "state": "Telangana"
   },
   {
     "id": "86104ddce87f",
@@ -9959,7 +10064,8 @@
     "posted_date": "2026-04-28",
     "sort_date": "2026-04-28",
     "sort_deadline": "2026-05-18",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a941e7a8e672"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a941e7a8e672",
+    "state": "Andhra Pradesh"
   },
   {
     "id": "830014b09b7f",
@@ -10037,7 +10143,8 @@
     "posted_date": "2026-04-28",
     "sort_date": "2026-04-28",
     "sort_deadline": "2026-06-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ba947daf6a2b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ba947daf6a2b",
+    "state": "Mizoram"
   },
   {
     "id": "30dcd57605da",
@@ -10115,7 +10222,8 @@
     "posted_date": "2026-04-26",
     "sort_date": "2026-04-26",
     "sort_deadline": "2026-05-16",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=9866c1c0b392"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=9866c1c0b392",
+    "state": "Maharashtra"
   },
   {
     "id": "e02408c883ee",
@@ -10141,7 +10249,8 @@
     "posted_date": "2026-04-26",
     "sort_date": "2026-04-26",
     "sort_deadline": "2026-05-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e02408c883ee"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e02408c883ee",
+    "state": "Bihar"
   },
   {
     "id": "a61a799456a2",
@@ -10219,7 +10328,8 @@
     "posted_date": "2026-04-26",
     "sort_date": "2026-04-26",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=197830c85725"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=197830c85725",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "468892a58644",
@@ -10349,7 +10459,8 @@
     "posted_date": "2026-04-25",
     "sort_date": "2026-04-25",
     "sort_deadline": "2026-05-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=297d955c2a94"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=297d955c2a94",
+    "state": "Karnataka"
   },
   {
     "id": "13bc53f56768",
@@ -10375,7 +10486,8 @@
     "posted_date": "2026-04-25",
     "sort_date": "2026-04-25",
     "sort_deadline": "2026-05-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=13bc53f56768"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=13bc53f56768",
+    "state": "Punjab"
   },
   {
     "id": "73c1d5446915",
@@ -10401,7 +10513,8 @@
     "posted_date": "2026-04-25",
     "sort_date": "2026-04-25",
     "sort_deadline": "2026-05-25",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=73c1d5446915"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=73c1d5446915",
+    "state": "Punjab"
   },
   {
     "id": "cb7a8cd30a84",
@@ -10557,7 +10670,8 @@
     "posted_date": "2026-04-24",
     "sort_date": "2026-04-24",
     "sort_deadline": "2026-07-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ae26f24a1e40"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ae26f24a1e40",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "c8aa2f56cfb6",
@@ -10687,7 +10801,8 @@
     "posted_date": "2026-04-23",
     "sort_date": "2026-04-23",
     "sort_deadline": "2026-05-12",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=598fb44f8889"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=598fb44f8889",
+    "state": "Maharashtra"
   },
   {
     "id": "16f74fc91c2d",
@@ -10817,7 +10932,8 @@
     "posted_date": "2026-04-22",
     "sort_date": "2026-04-22",
     "sort_deadline": "2026-05-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=60a439883274"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=60a439883274",
+    "state": "Mizoram"
   },
   {
     "id": "3d05e99ed9da",
@@ -10843,7 +10959,8 @@
     "posted_date": "2026-04-22",
     "sort_date": "2026-04-22",
     "sort_deadline": "2026-05-23",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3d05e99ed9da"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3d05e99ed9da",
+    "state": "Chhattisgarh"
   },
   {
     "id": "e2f6b1e5652f",
@@ -10869,7 +10986,8 @@
     "posted_date": "2026-04-22",
     "sort_date": "2026-04-22",
     "sort_deadline": "2026-05-25",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e2f6b1e5652f"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e2f6b1e5652f",
+    "state": "Goa"
   },
   {
     "id": "6525cf2e46ca",
@@ -10973,7 +11091,8 @@
     "posted_date": "2026-04-21",
     "sort_date": "2026-04-21",
     "sort_deadline": "2026-05-12",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=d50733c1e83a"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=d50733c1e83a",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "2d5c7ffaaaf4",
@@ -11129,7 +11248,8 @@
     "posted_date": "2026-04-19",
     "sort_date": "2026-04-19",
     "sort_deadline": "2026-05-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a2af4c36d0aa"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a2af4c36d0aa",
+    "state": "Gujarat"
   },
   {
     "id": "4aaccb313f39",
@@ -11207,7 +11327,8 @@
     "posted_date": "2026-04-19",
     "sort_date": "2026-04-19",
     "sort_deadline": "2026-07-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0e2aba3fd0c3"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0e2aba3fd0c3",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "414e4cc69dc4",
@@ -11233,7 +11354,8 @@
     "posted_date": "2026-04-18",
     "sort_date": "2026-04-18",
     "sort_deadline": "2026-05-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=414e4cc69dc4"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=414e4cc69dc4",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "1bdc98dcc908",
@@ -11259,7 +11381,8 @@
     "posted_date": "2026-04-18",
     "sort_date": "2026-04-18",
     "sort_deadline": "2026-05-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=1bdc98dcc908"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=1bdc98dcc908",
+    "state": "Andaman & Nicobar"
   },
   {
     "id": "664efaf676c1",
@@ -11285,7 +11408,8 @@
     "posted_date": "2026-04-18",
     "sort_date": "2026-04-18",
     "sort_deadline": "2026-05-07",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=664efaf676c1"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=664efaf676c1",
+    "state": "Gujarat"
   },
   {
     "id": "117f4e880071",
@@ -11311,7 +11435,8 @@
     "posted_date": "2026-04-18",
     "sort_date": "2026-04-18",
     "sort_deadline": "2026-05-07",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=117f4e880071"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=117f4e880071",
+    "state": "Gujarat"
   },
   {
     "id": "f4ce9ae43c86",
@@ -11337,7 +11462,8 @@
     "posted_date": "2026-04-18",
     "sort_date": "2026-04-18",
     "sort_deadline": "2026-05-12",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f4ce9ae43c86"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f4ce9ae43c86",
+    "state": "Jharkhand"
   },
   {
     "id": "46ceb963a6d4",
@@ -11363,7 +11489,8 @@
     "posted_date": "2026-04-18",
     "sort_date": "2026-04-18",
     "sort_deadline": "2026-05-15",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=46ceb963a6d4"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=46ceb963a6d4",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "eb26ca8cea1a",
@@ -11389,7 +11516,8 @@
     "posted_date": "2026-04-18",
     "sort_date": "2026-04-18",
     "sort_deadline": "2026-05-15",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=eb26ca8cea1a"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=eb26ca8cea1a",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "dcdfbe159db3",
@@ -11415,7 +11543,8 @@
     "posted_date": "2026-04-18",
     "sort_date": "2026-04-18",
     "sort_deadline": "2026-05-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=dcdfbe159db3"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=dcdfbe159db3",
+    "state": "Gujarat"
   },
   {
     "id": "49c362cc8430",
@@ -11441,7 +11570,8 @@
     "posted_date": "2026-04-18",
     "sort_date": "2026-04-18",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=49c362cc8430"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=49c362cc8430",
+    "state": "Karnataka"
   },
   {
     "id": "4fd269e6735b",
@@ -11467,7 +11597,8 @@
     "posted_date": "2026-04-18",
     "sort_date": "2026-04-18",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4fd269e6735b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4fd269e6735b",
+    "state": "Chandigarh"
   },
   {
     "id": "a530da078564",
@@ -11493,7 +11624,8 @@
     "posted_date": "2026-04-18",
     "sort_date": "2026-04-18",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a530da078564"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a530da078564",
+    "state": "Bihar"
   },
   {
     "id": "5894713fa442",
@@ -11623,7 +11755,8 @@
     "posted_date": "2026-04-17",
     "sort_date": "2026-04-17",
     "sort_deadline": "2026-05-15",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=cfdf3cbb2ef9"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=cfdf3cbb2ef9",
+    "state": "Telangana"
   },
   {
     "id": "95ffa3070160",
@@ -11649,7 +11782,8 @@
     "posted_date": "2026-04-17",
     "sort_date": "2026-04-17",
     "sort_deadline": "2026-05-15",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=95ffa3070160"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=95ffa3070160",
+    "state": "Bihar"
   },
   {
     "id": "b7269f0a6f5d",
@@ -11675,7 +11809,8 @@
     "posted_date": "2026-04-17",
     "sort_date": "2026-04-17",
     "sort_deadline": "2026-05-16",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b7269f0a6f5d"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b7269f0a6f5d",
+    "state": "Bihar"
   },
   {
     "id": "60a5d1bbacad",
@@ -11701,7 +11836,8 @@
     "posted_date": "2026-04-16",
     "sort_date": "2026-04-16",
     "sort_deadline": "2026-04-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=60a5d1bbacad"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=60a5d1bbacad",
+    "state": "Bihar"
   },
   {
     "id": "2cb87c764652",
@@ -11779,7 +11915,8 @@
     "posted_date": "2026-04-16",
     "sort_date": "2026-04-16",
     "sort_deadline": "2026-05-04",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=12b98b77ffb6"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=12b98b77ffb6",
+    "state": "Uttarakhand"
   },
   {
     "id": "1498a2c6b179",
@@ -11831,7 +11968,8 @@
     "posted_date": "2026-04-16",
     "sort_date": "2026-04-16",
     "sort_deadline": "2026-05-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0e2437b2d1f4"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0e2437b2d1f4",
+    "state": "Punjab"
   },
   {
     "id": "85a595ab6d9e",
@@ -11909,7 +12047,8 @@
     "posted_date": "2026-04-16",
     "sort_date": "2026-04-16",
     "sort_deadline": "2026-07-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=591d0dea731c"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=591d0dea731c",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "060270b13b0d",
@@ -11961,7 +12100,8 @@
     "posted_date": "2026-04-15",
     "sort_date": "2026-04-15",
     "sort_deadline": "2026-04-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3f73e66d142d"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3f73e66d142d",
+    "state": "Goa"
   },
   {
     "id": "22f4231b092e",
@@ -12013,7 +12153,8 @@
     "posted_date": "2026-04-14",
     "sort_date": "2026-04-14",
     "sort_deadline": "2026-04-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c7adf963e72e"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c7adf963e72e",
+    "state": "Punjab"
   },
   {
     "id": "149ee10209a7",
@@ -12039,7 +12180,8 @@
     "posted_date": "2026-04-14",
     "sort_date": "2026-04-14",
     "sort_deadline": "2026-04-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=149ee10209a7"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=149ee10209a7",
+    "state": "Goa"
   },
   {
     "id": "323ec060e526",
@@ -12091,7 +12233,8 @@
     "posted_date": "2026-04-14",
     "sort_date": "2026-04-14",
     "sort_deadline": "2026-04-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=14aaa8dd005d"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=14aaa8dd005d",
+    "state": "Goa"
   },
   {
     "id": "30143000e3b4",
@@ -12117,7 +12260,8 @@
     "posted_date": "2026-04-14",
     "sort_date": "2026-04-14",
     "sort_deadline": "2026-04-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=30143000e3b4"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=30143000e3b4",
+    "state": "Goa"
   },
   {
     "id": "dfa47a4e4fa2",
@@ -12143,7 +12287,8 @@
     "posted_date": "2026-04-14",
     "sort_date": "2026-04-14",
     "sort_deadline": "2026-04-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=dfa47a4e4fa2"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=dfa47a4e4fa2",
+    "state": "Goa"
   },
   {
     "id": "6b718f205f98",
@@ -12169,7 +12314,8 @@
     "posted_date": "2026-04-14",
     "sort_date": "2026-04-14",
     "sort_deadline": "2026-04-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=6b718f205f98"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=6b718f205f98",
+    "state": "Goa"
   },
   {
     "id": "4e3fc0926bee",
@@ -12195,7 +12341,8 @@
     "posted_date": "2026-04-14",
     "sort_date": "2026-04-14",
     "sort_deadline": "2026-04-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4e3fc0926bee"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4e3fc0926bee",
+    "state": "Gujarat"
   },
   {
     "id": "8dd48bd9a462",
@@ -12273,7 +12420,8 @@
     "posted_date": "2026-04-14",
     "sort_date": "2026-04-14",
     "sort_deadline": "2026-05-02",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=924788e9545f"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=924788e9545f",
+    "state": "Gujarat"
   },
   {
     "id": "20580b59fc8c",
@@ -12299,7 +12447,8 @@
     "posted_date": "2026-04-14",
     "sort_date": "2026-04-14",
     "sort_deadline": "2026-05-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=20580b59fc8c"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=20580b59fc8c",
+    "state": "Gujarat"
   },
   {
     "id": "f4f5b13cc677",
@@ -12325,7 +12474,8 @@
     "posted_date": "2026-04-14",
     "sort_date": "2026-04-14",
     "sort_deadline": "2026-05-08",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f4f5b13cc677"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f4f5b13cc677",
+    "state": "Arunachal Pradesh"
   },
   {
     "id": "25b8b986c3d9",
@@ -12481,7 +12631,8 @@
     "posted_date": "2026-04-13",
     "sort_date": "2026-04-13",
     "sort_deadline": "2026-05-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=96624855a914"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=96624855a914",
+    "state": "Assam"
   },
   {
     "id": "b322e7b9cc11",
@@ -12663,7 +12814,8 @@
     "posted_date": "2026-04-12",
     "sort_date": "2026-04-12",
     "sort_deadline": "2026-05-07",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7c4883f14aff"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7c4883f14aff",
+    "state": "Uttarakhand"
   },
   {
     "id": "93bbd04aa350",
@@ -12689,7 +12841,8 @@
     "posted_date": "2026-04-12",
     "sort_date": "2026-04-12",
     "sort_deadline": "2026-05-22",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=93bbd04aa350"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=93bbd04aa350",
+    "state": "Sikkim"
   },
   {
     "id": "98530a474d6d",
@@ -12741,7 +12894,8 @@
     "posted_date": "2026-04-11",
     "sort_date": "2026-04-11",
     "sort_deadline": "2026-04-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5999c29917ad"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5999c29917ad",
+    "state": "Andhra Pradesh"
   },
   {
     "id": "76109b1b1f7d",
@@ -12767,7 +12921,8 @@
     "posted_date": "2026-04-11",
     "sort_date": "2026-04-11",
     "sort_deadline": "2026-04-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=76109b1b1f7d"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=76109b1b1f7d",
+    "state": "Maharashtra"
   },
   {
     "id": "c4f872807262",
@@ -12897,7 +13052,8 @@
     "posted_date": "2026-04-11",
     "sort_date": "2026-04-11",
     "sort_deadline": "2026-05-11",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5cc0628e2189"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5cc0628e2189",
+    "state": "Assam"
   },
   {
     "id": "9ea187448eac",
@@ -12923,7 +13079,8 @@
     "posted_date": "2026-04-11",
     "sort_date": "2026-04-11",
     "sort_deadline": "2026-06-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=9ea187448eac"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=9ea187448eac",
+    "state": "Delhi"
   },
   {
     "id": "cdee15b781fb",
@@ -12949,7 +13106,8 @@
     "posted_date": "2026-04-11",
     "sort_date": "2026-04-11",
     "sort_deadline": "2026-06-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=cdee15b781fb"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=cdee15b781fb",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "27395fb76c46",
@@ -12975,7 +13133,8 @@
     "posted_date": "2026-04-11",
     "sort_date": "2026-04-11",
     "sort_deadline": "2026-09-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=27395fb76c46"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=27395fb76c46",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "06cdc03d73b2",
@@ -13001,7 +13160,8 @@
     "posted_date": "2026-04-11",
     "sort_date": "2026-04-11",
     "sort_deadline": "2026-09-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=06cdc03d73b2"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=06cdc03d73b2",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "ec730741120e",
@@ -13027,7 +13187,8 @@
     "posted_date": "2026-04-11",
     "sort_date": "2026-04-11",
     "sort_deadline": "2026-09-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ec730741120e"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ec730741120e",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "7c972eeeac7a",
@@ -13105,7 +13266,8 @@
     "posted_date": "2026-04-11",
     "sort_date": "2026-04-11",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e664a86d089c"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e664a86d089c",
+    "state": "Maharashtra"
   },
   {
     "id": "138e0048eb8e",
@@ -13157,7 +13319,8 @@
     "posted_date": "2026-04-11",
     "sort_date": "2026-04-11",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=110c40928a35"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=110c40928a35",
+    "state": "Bihar"
   },
   {
     "id": "a7a1580eb32a",
@@ -13183,7 +13346,8 @@
     "posted_date": "2026-04-11",
     "sort_date": "2026-04-11",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a7a1580eb32a"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a7a1580eb32a",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "658b9d148477",
@@ -13209,7 +13373,8 @@
     "posted_date": "2026-04-11",
     "sort_date": "2026-04-11",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=658b9d148477"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=658b9d148477",
+    "state": "Delhi"
   },
   {
     "id": "e6d760580c63",
@@ -13521,7 +13686,8 @@
     "posted_date": "2026-04-07",
     "sort_date": "2026-04-07",
     "sort_deadline": "2026-04-26",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=36c7d905850d"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=36c7d905850d",
+    "state": "Chandigarh"
   },
   {
     "id": "a6142ec8f928",
@@ -13599,7 +13765,8 @@
     "posted_date": "2026-04-07",
     "sort_date": "2026-04-07",
     "sort_deadline": "2026-05-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=6b1e4f8c7c3c"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=6b1e4f8c7c3c",
+    "state": "Punjab"
   },
   {
     "id": "48320e345c4b",
@@ -13625,7 +13792,8 @@
     "posted_date": "2026-04-07",
     "sort_date": "2026-04-07",
     "sort_deadline": "2026-06-24",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=48320e345c4b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=48320e345c4b",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "789284b61ff4",
@@ -13703,7 +13871,8 @@
     "posted_date": "2026-04-05",
     "sort_date": "2026-04-05",
     "sort_deadline": "2026-04-04",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c44baf88fcb7"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c44baf88fcb7",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "fa884e1aa2ab",
@@ -13755,7 +13924,8 @@
     "posted_date": "2026-04-04",
     "sort_date": "2026-04-04",
     "sort_deadline": "2026-04-07",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3bb22e6420d5"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3bb22e6420d5",
+    "state": "Delhi"
   },
   {
     "id": "6bb627dfa820",
@@ -13989,7 +14159,8 @@
     "posted_date": "2026-04-01",
     "sort_date": "2026-04-01",
     "sort_deadline": "2026-04-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=513a035abe55"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=513a035abe55",
+    "state": "Bihar"
   },
   {
     "id": "064afeff22ec",
@@ -14093,7 +14264,8 @@
     "posted_date": "2026-04-01",
     "sort_date": "2026-04-01",
     "sort_deadline": "2026-04-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=6da33ab0784d"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=6da33ab0784d",
+    "state": "Punjab"
   },
   {
     "id": "aecf4f8af63b",
@@ -14119,7 +14291,8 @@
     "posted_date": "2026-04-01",
     "sort_date": "2026-04-01",
     "sort_deadline": "2026-05-04",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=aecf4f8af63b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=aecf4f8af63b",
+    "state": "Jammu & Kashmir"
   },
   {
     "id": "773782810b87",
@@ -14145,7 +14318,8 @@
     "posted_date": "2026-04-01",
     "sort_date": "2026-04-01",
     "sort_deadline": "2026-05-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=773782810b87"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=773782810b87",
+    "state": "Jammu & Kashmir"
   },
   {
     "id": "044e1f7621b6",
@@ -14223,7 +14397,8 @@
     "posted_date": "2026-03-31",
     "sort_date": "2026-03-31",
     "sort_deadline": "2026-06-08",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=35dc4be32158"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=35dc4be32158",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "981f922b651c",
@@ -14587,7 +14762,8 @@
     "posted_date": "2026-03-25",
     "sort_date": "2026-03-25",
     "sort_deadline": "2026-04-07",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=648bae826726"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=648bae826726",
+    "state": "Punjab"
   },
   {
     "id": "5cad1ac25e5e",
@@ -14639,7 +14815,8 @@
     "posted_date": "2026-03-25",
     "sort_date": "2026-03-25",
     "sort_deadline": "2026-06-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5e7e1a5c9456"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5e7e1a5c9456",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "0e6d9e6b02ba",
@@ -14769,7 +14946,8 @@
     "posted_date": "2026-03-23",
     "sort_date": "2026-03-23",
     "sort_deadline": "2026-05-04",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=35edc9fb23e9"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=35edc9fb23e9",
+    "state": "Bihar"
   },
   {
     "id": "7accacf4c86a",
@@ -14795,7 +14973,8 @@
     "posted_date": "2026-03-23",
     "sort_date": "2026-03-23",
     "sort_deadline": "2026-05-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7accacf4c86a"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7accacf4c86a",
+    "state": "Goa"
   },
   {
     "id": "b5f88b696edf",
@@ -14821,7 +15000,8 @@
     "posted_date": "2026-03-23",
     "sort_date": "2026-03-23",
     "sort_deadline": "2026-05-11",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b5f88b696edf"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b5f88b696edf",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "7f8b1f0ba2cf",
@@ -14847,7 +15027,8 @@
     "posted_date": "2026-03-23",
     "sort_date": "2026-03-23",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7f8b1f0ba2cf"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7f8b1f0ba2cf",
+    "state": "Andhra Pradesh"
   },
   {
     "id": "c2a952f96ae7",
@@ -15003,7 +15184,8 @@
     "posted_date": "2026-03-19",
     "sort_date": "2026-03-19",
     "sort_deadline": "2026-04-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4cd720f4adee"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4cd720f4adee",
+    "state": "Maharashtra"
   },
   {
     "id": "4d6f75490008",
@@ -15211,7 +15393,8 @@
     "posted_date": "2026-03-18",
     "sort_date": "2026-03-18",
     "sort_deadline": "2026-05-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=bbd9ff475ecf"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=bbd9ff475ecf",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "160f3a5d2eff",
@@ -15237,7 +15420,8 @@
     "posted_date": "2026-03-17",
     "sort_date": "2026-03-17",
     "sort_deadline": "2026-03-22",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=160f3a5d2eff"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=160f3a5d2eff",
+    "state": "Assam"
   },
   {
     "id": "0e60fabc9907",
@@ -15263,7 +15447,8 @@
     "posted_date": "2026-03-17",
     "sort_date": "2026-03-17",
     "sort_deadline": "2026-04-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0e60fabc9907"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0e60fabc9907",
+    "state": "Assam"
   },
   {
     "id": "abe7e36eb698",
@@ -15367,7 +15552,8 @@
     "posted_date": "2026-03-17",
     "sort_date": "2026-03-17",
     "sort_deadline": "2026-05-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=991b55b57e3b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=991b55b57e3b",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "c31400347b0f",
@@ -15471,7 +15657,8 @@
     "posted_date": "2026-03-15",
     "sort_date": "2026-03-15",
     "sort_deadline": "2026-03-24",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a4abf88fd552"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a4abf88fd552",
+    "state": "Chhattisgarh"
   },
   {
     "id": "e61e8c5e090b",
@@ -15653,7 +15840,8 @@
     "posted_date": "2026-03-14",
     "sort_date": "2026-03-14",
     "sort_deadline": "2026-04-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=8797c1ffef41"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=8797c1ffef41",
+    "state": "Punjab"
   },
   {
     "id": "8b1d9a5adcf3",
@@ -15731,7 +15919,8 @@
     "posted_date": "2026-03-14",
     "sort_date": "2026-03-14",
     "sort_deadline": "2026-04-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=2fb7dd13338d"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=2fb7dd13338d",
+    "state": "Punjab"
   },
   {
     "id": "024c0686bea5",
@@ -15757,7 +15946,8 @@
     "posted_date": "2026-03-14",
     "sort_date": "2026-03-14",
     "sort_deadline": "2026-04-07",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=024c0686bea5"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=024c0686bea5",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "fb9172d53d7e",
@@ -15783,7 +15973,8 @@
     "posted_date": "2026-03-14",
     "sort_date": "2026-03-14",
     "sort_deadline": "2026-04-17",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=fb9172d53d7e"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=fb9172d53d7e",
+    "state": "Maharashtra"
   },
   {
     "id": "fe6c89ebdb9e",
@@ -15861,7 +16052,8 @@
     "posted_date": "2026-03-13",
     "sort_date": "2026-03-13",
     "sort_deadline": "2026-04-04",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=1e77547528a3"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=1e77547528a3",
+    "state": "Bihar"
   },
   {
     "id": "ea837d86b4bf",
@@ -15887,7 +16079,8 @@
     "posted_date": "2026-03-13",
     "sort_date": "2026-03-13",
     "sort_deadline": "2026-04-04",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ea837d86b4bf"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ea837d86b4bf",
+    "state": "Delhi"
   },
   {
     "id": "02d1c89945b2",
@@ -15939,7 +16132,8 @@
     "posted_date": "2026-03-13",
     "sort_date": "2026-03-13",
     "sort_deadline": "2026-04-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e705a03243f6"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e705a03243f6",
+    "state": "Assam"
   },
   {
     "id": "9eccabf561db",
@@ -16069,7 +16263,8 @@
     "posted_date": "2026-03-12",
     "sort_date": "2026-03-12",
     "sort_deadline": "2026-04-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=55aedce9b692"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=55aedce9b692",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "b4f3766caa76",
@@ -16121,7 +16316,8 @@
     "posted_date": "2026-03-12",
     "sort_date": "2026-03-12",
     "sort_deadline": "2026-04-13",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=72d4e3543fdb"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=72d4e3543fdb",
+    "state": "Odisha"
   },
   {
     "id": "8a671c1bb9f7",
@@ -16147,7 +16343,8 @@
     "posted_date": "2026-03-12",
     "sort_date": "2026-03-12",
     "sort_deadline": "2026-05-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=8a671c1bb9f7"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=8a671c1bb9f7",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "a66e8c83a659",
@@ -16173,7 +16370,8 @@
     "posted_date": "2026-03-12",
     "sort_date": "2026-03-12",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a66e8c83a659"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a66e8c83a659",
+    "state": "Maharashtra"
   },
   {
     "id": "a1e60821a7b5",
@@ -16459,7 +16657,8 @@
     "posted_date": "2026-03-10",
     "sort_date": "2026-03-10",
     "sort_deadline": "2026-04-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c3bd37f5cdc2"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c3bd37f5cdc2",
+    "state": "Odisha"
   },
   {
     "id": "155dd73f9e0a",
@@ -16485,7 +16684,8 @@
     "posted_date": "2026-03-10",
     "sort_date": "2026-03-10",
     "sort_deadline": "2026-04-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=155dd73f9e0a"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=155dd73f9e0a",
+    "state": "Arunachal Pradesh"
   },
   {
     "id": "c595ef105a8a",
@@ -16511,7 +16711,8 @@
     "posted_date": "2026-03-10",
     "sort_date": "2026-03-10",
     "sort_deadline": "2026-04-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c595ef105a8a"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c595ef105a8a",
+    "state": "Himachal Pradesh"
   },
   {
     "id": "685f4a965eba",
@@ -16537,7 +16738,8 @@
     "posted_date": "2026-03-10",
     "sort_date": "2026-03-10",
     "sort_deadline": "2026-04-07",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=685f4a965eba"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=685f4a965eba",
+    "state": "Odisha"
   },
   {
     "id": "85393f5dabea",
@@ -16563,7 +16765,8 @@
     "posted_date": "2026-03-09",
     "sort_date": "2026-03-09",
     "sort_deadline": "2026-03-21",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=85393f5dabea"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=85393f5dabea",
+    "state": "Gujarat"
   },
   {
     "id": "ba8814d06430",
@@ -16589,7 +16792,8 @@
     "posted_date": "2026-03-09",
     "sort_date": "2026-03-09",
     "sort_deadline": "2026-03-28",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ba8814d06430"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ba8814d06430",
+    "state": "Punjab"
   },
   {
     "id": "f778e0ea4f45",
@@ -16615,7 +16819,8 @@
     "posted_date": "2026-03-09",
     "sort_date": "2026-03-09",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f778e0ea4f45"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f778e0ea4f45",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "b4db13e110d7",
@@ -16667,7 +16872,8 @@
     "posted_date": "2026-03-08",
     "sort_date": "2026-03-08",
     "sort_deadline": "2026-03-07",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4237ddf9c868"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4237ddf9c868",
+    "state": "Delhi"
   },
   {
     "id": "0ce4754da62e",
@@ -16693,7 +16899,8 @@
     "posted_date": "2026-03-08",
     "sort_date": "2026-03-08",
     "sort_deadline": "2026-03-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0ce4754da62e"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0ce4754da62e",
+    "state": "Gujarat"
   },
   {
     "id": "a0b27c2ed92b",
@@ -16719,7 +16926,8 @@
     "posted_date": "2026-03-08",
     "sort_date": "2026-03-08",
     "sort_deadline": "2026-03-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a0b27c2ed92b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a0b27c2ed92b",
+    "state": "Gujarat"
   },
   {
     "id": "1959b8af2975",
@@ -16745,7 +16953,8 @@
     "posted_date": "2026-03-07",
     "sort_date": "2026-03-07",
     "sort_deadline": "2026-03-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=1959b8af2975"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=1959b8af2975",
+    "state": "Gujarat"
   },
   {
     "id": "28893ea3524a",
@@ -16771,7 +16980,8 @@
     "posted_date": "2026-03-07",
     "sort_date": "2026-03-07",
     "sort_deadline": "2026-03-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=28893ea3524a"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=28893ea3524a",
+    "state": "Punjab"
   },
   {
     "id": "76f2dbdb9d5c",
@@ -16901,7 +17111,8 @@
     "posted_date": "2026-03-05",
     "sort_date": "2026-03-05",
     "sort_deadline": "2026-03-04",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=68825c8d4bf7"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=68825c8d4bf7",
+    "state": "Bihar"
   },
   {
     "id": "4c36ed7983db",
@@ -16953,7 +17164,8 @@
     "posted_date": "2026-03-03",
     "sort_date": "2026-03-03",
     "sort_deadline": "2026-04-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=cfd19b1e19c9"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=cfd19b1e19c9",
+    "state": "Karnataka"
   },
   {
     "id": "6ec29c7d79b0",
@@ -16979,7 +17191,8 @@
     "posted_date": "2026-03-03",
     "sort_date": "2026-03-03",
     "sort_deadline": "2026-04-04",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=6ec29c7d79b0"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=6ec29c7d79b0",
+    "state": "Himachal Pradesh"
   },
   {
     "id": "64b58d2cb4f6",
@@ -17031,7 +17244,8 @@
     "posted_date": "2026-03-02",
     "sort_date": "2026-03-02",
     "sort_deadline": "2026-03-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c47611c91465"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c47611c91465",
+    "state": "Gujarat"
   },
   {
     "id": "ffd50124f296",
@@ -17083,7 +17297,8 @@
     "posted_date": "2026-03-02",
     "sort_date": "2026-03-02",
     "sort_deadline": "2026-03-16",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=bc77117849c1"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=bc77117849c1",
+    "state": "Gujarat"
   },
   {
     "id": "ddd1269a1762",
@@ -17109,7 +17324,8 @@
     "posted_date": "2026-03-02",
     "sort_date": "2026-03-02",
     "sort_deadline": "2026-03-29",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ddd1269a1762"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=ddd1269a1762",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "c0deec2f80cf",
@@ -17213,7 +17429,8 @@
     "posted_date": "2026-02-26",
     "sort_date": "2026-02-26",
     "sort_deadline": "2026-03-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a6e6fbf9baf8"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a6e6fbf9baf8",
+    "state": "Bihar"
   },
   {
     "id": "81c61334f0b1",
@@ -17343,7 +17560,8 @@
     "posted_date": "2026-02-26",
     "sort_date": "2026-02-26",
     "sort_deadline": "2026-03-08",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=637a80292c45"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=637a80292c45",
+    "state": "Delhi"
   },
   {
     "id": "f1cec4ba5b49",
@@ -17369,7 +17587,8 @@
     "posted_date": "2026-02-25",
     "sort_date": "2026-02-25",
     "sort_deadline": "2026-03-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f1cec4ba5b49"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f1cec4ba5b49",
+    "state": "Punjab"
   },
   {
     "id": "dc120ce6c111",
@@ -17421,7 +17640,8 @@
     "posted_date": "2026-02-25",
     "sort_date": "2026-02-25",
     "sort_deadline": "2026-03-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3208993c067c"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3208993c067c",
+    "state": "Tamil Nadu"
   },
   {
     "id": "541ee5e7f745",
@@ -17525,7 +17745,8 @@
     "posted_date": "2026-02-24",
     "sort_date": "2026-02-24",
     "sort_deadline": "2026-03-18",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c3069ae2a4bf"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c3069ae2a4bf",
+    "state": "Bihar"
   },
   {
     "id": "e9f7815cd78a",
@@ -17551,7 +17772,8 @@
     "posted_date": "2026-02-24",
     "sort_date": "2026-02-24",
     "sort_deadline": "2026-03-22",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e9f7815cd78a"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e9f7815cd78a",
+    "state": "Assam"
   },
   {
     "id": "9ecac8d365ba",
@@ -17629,7 +17851,8 @@
     "posted_date": "2026-02-24",
     "sort_date": "2026-02-24",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a7f8aa72ebbe"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a7f8aa72ebbe",
+    "state": "Bihar"
   },
   {
     "id": "704c9c118cb2",
@@ -17707,7 +17930,8 @@
     "posted_date": "2026-02-23",
     "sort_date": "2026-02-23",
     "sort_deadline": "2026-03-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=9c40f36db72f"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=9c40f36db72f",
+    "state": "Goa"
   },
   {
     "id": "45ad618a09b5",
@@ -17863,7 +18087,8 @@
     "posted_date": "2026-02-21",
     "sort_date": "2026-02-21",
     "sort_deadline": "2026-03-25",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7214460911bd"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7214460911bd",
+    "state": "Delhi"
   },
   {
     "id": "9911cdf65aa4",
@@ -17941,7 +18166,8 @@
     "posted_date": "2026-02-19",
     "sort_date": "2026-02-19",
     "sort_deadline": "2026-03-10",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=781696f21374"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=781696f21374",
+    "state": "Chandigarh"
   },
   {
     "id": "64e85b5dcbb4",
@@ -18123,7 +18349,8 @@
     "posted_date": "2026-02-18",
     "sort_date": "2026-02-18",
     "sort_deadline": "2026-02-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c07878df22c5"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c07878df22c5",
+    "state": "Maharashtra"
   },
   {
     "id": "b7b8ece991b5",
@@ -18201,7 +18428,8 @@
     "posted_date": "2026-02-18",
     "sort_date": "2026-02-18",
     "sort_deadline": "2026-03-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=385f43c7aa42"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=385f43c7aa42",
+    "state": "Gujarat"
   },
   {
     "id": "3bbf2633c49d",
@@ -18253,7 +18481,8 @@
     "posted_date": "2026-02-18",
     "sort_date": "2026-02-18",
     "sort_deadline": "2026-03-07",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=dfb683bdfd36"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=dfb683bdfd36",
+    "state": "Delhi"
   },
   {
     "id": "6a82a8d14815",
@@ -18279,7 +18508,8 @@
     "posted_date": "2026-02-18",
     "sort_date": "2026-02-18",
     "sort_deadline": "2026-03-17",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=6a82a8d14815"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=6a82a8d14815",
+    "state": "Meghalaya"
   },
   {
     "id": "7114e3a48771",
@@ -18513,7 +18743,8 @@
     "posted_date": "2026-02-15",
     "sort_date": "2026-02-15",
     "sort_deadline": "2026-03-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=1d2518cabc5f"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=1d2518cabc5f",
+    "state": "Punjab"
   },
   {
     "id": "abe2777e7e88",
@@ -18539,7 +18770,8 @@
     "posted_date": "2026-02-15",
     "sort_date": "2026-02-15",
     "sort_deadline": "2026-03-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=abe2777e7e88"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=abe2777e7e88",
+    "state": "Punjab"
   },
   {
     "id": "f31f2cb17468",
@@ -18643,7 +18875,8 @@
     "posted_date": "2026-02-14",
     "sort_date": "2026-02-14",
     "sort_deadline": "2026-03-12",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=55da2093f791"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=55da2093f791",
+    "state": "Jharkhand"
   },
   {
     "id": "82b8f06dc46d",
@@ -18773,7 +19006,8 @@
     "posted_date": "2026-02-13",
     "sort_date": "2026-02-13",
     "sort_deadline": "2026-02-24",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7cd372ac2e27"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=7cd372ac2e27",
+    "state": "Assam"
   },
   {
     "id": "bdca11f7ee61",
@@ -18877,7 +19111,8 @@
     "posted_date": "2026-02-13",
     "sort_date": "2026-02-13",
     "sort_deadline": "2026-02-27",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a5e372ed19fe"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a5e372ed19fe",
+    "state": "Goa"
   },
   {
     "id": "b2c6ee68e793",
@@ -18903,7 +19138,8 @@
     "posted_date": "2026-02-13",
     "sort_date": "2026-02-13",
     "sort_deadline": "2026-02-27",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b2c6ee68e793"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b2c6ee68e793",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "e80ce9ac962c",
@@ -18929,7 +19165,8 @@
     "posted_date": "2026-02-13",
     "sort_date": "2026-02-13",
     "sort_deadline": "2026-03-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e80ce9ac962c"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e80ce9ac962c",
+    "state": "Bihar"
   },
   {
     "id": "7f7ec491de9c",
@@ -19293,7 +19530,8 @@
     "posted_date": "2026-02-10",
     "sort_date": "2026-02-10",
     "sort_deadline": "2026-03-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=da04b1911d54"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=da04b1911d54",
+    "state": "Telangana"
   },
   {
     "id": "34bdf2b474c9",
@@ -19397,7 +19635,8 @@
     "posted_date": "2026-02-08",
     "sort_date": "2026-02-08",
     "sort_deadline": "2026-02-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=78c6c5f3d5b8"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=78c6c5f3d5b8",
+    "state": "Gujarat"
   },
   {
     "id": "5e1b4e505dc8",
@@ -19449,7 +19688,8 @@
     "posted_date": "2026-02-08",
     "sort_date": "2026-02-08",
     "sort_deadline": "2026-02-27",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b89e7aaf361d"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b89e7aaf361d",
+    "state": "Delhi"
   },
   {
     "id": "08ff6cbc40ba",
@@ -19501,7 +19741,8 @@
     "posted_date": "2026-02-08",
     "sort_date": "2026-02-08",
     "sort_deadline": "2026-03-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c01a76dc930e"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c01a76dc930e",
+    "state": "Haryana"
   },
   {
     "id": "e189598d2561",
@@ -19605,7 +19846,8 @@
     "posted_date": "2026-02-06",
     "sort_date": "2026-02-06",
     "sort_deadline": "2026-03-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c222c5841b6b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c222c5841b6b",
+    "state": "Haryana"
   },
   {
     "id": "864a6b97a801",
@@ -19683,7 +19925,8 @@
     "posted_date": "2026-02-05",
     "sort_date": "2026-02-05",
     "sort_deadline": "2026-03-02",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=412b70fcb845"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=412b70fcb845",
+    "state": "Gujarat"
   },
   {
     "id": "ff8d4e281c60",
@@ -19787,7 +20030,8 @@
     "posted_date": "2026-02-03",
     "sort_date": "2026-02-03",
     "sort_deadline": "2026-03-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=07f6761c245c"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=07f6761c245c",
+    "state": "Jammu & Kashmir"
   },
   {
     "id": "208773f58caa",
@@ -19813,7 +20057,8 @@
     "posted_date": "2026-02-03",
     "sort_date": "2026-02-03",
     "sort_deadline": "2026-03-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=208773f58caa"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=208773f58caa",
+    "state": "Haryana"
   },
   {
     "id": "41ae81f251e4",
@@ -19839,7 +20084,8 @@
     "posted_date": "2026-02-03",
     "sort_date": "2026-02-03",
     "sort_deadline": "2026-03-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=41ae81f251e4"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=41ae81f251e4",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "6a82abded35e",
@@ -19917,7 +20163,8 @@
     "posted_date": "2026-02-01",
     "sort_date": "2026-02-01",
     "sort_deadline": "2026-02-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=721b9867c038"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=721b9867c038",
+    "state": "Goa"
   },
   {
     "id": "90cb1e43af39",
@@ -19969,7 +20216,8 @@
     "posted_date": "2026-02-01",
     "sort_date": "2026-02-01",
     "sort_deadline": "2026-02-23",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=56fbdc27fa56"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=56fbdc27fa56",
+    "state": "Delhi"
   },
   {
     "id": "812e4ba9ac39",
@@ -19995,7 +20243,8 @@
     "posted_date": "2026-02-01",
     "sort_date": "2026-02-01",
     "sort_deadline": "2026-02-26",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=812e4ba9ac39"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=812e4ba9ac39",
+    "state": "Haryana"
   },
   {
     "id": "0f9a6f7d0c72",
@@ -20073,7 +20322,8 @@
     "posted_date": "2026-01-30",
     "sort_date": "2026-01-30",
     "sort_deadline": "2026-02-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=32b5f31ea3d2"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=32b5f31ea3d2",
+    "state": "Jharkhand"
   },
   {
     "id": "ee46e170a394",
@@ -20151,7 +20401,8 @@
     "posted_date": "2026-01-30",
     "sort_date": "2026-01-30",
     "sort_deadline": "2026-03-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=fdee0416067e"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=fdee0416067e",
+    "state": "Bihar"
   },
   {
     "id": "4571de747279",
@@ -20307,7 +20558,8 @@
     "posted_date": "2026-01-29",
     "sort_date": "2026-01-29",
     "sort_deadline": "2026-02-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=cb1ba6f9039b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=cb1ba6f9039b",
+    "state": "Bihar"
   },
   {
     "id": "85910f34ed79",
@@ -20359,7 +20611,8 @@
     "posted_date": "2026-01-29",
     "sort_date": "2026-01-29",
     "sort_deadline": "2026-02-18",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=321f5e27b230"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=321f5e27b230",
+    "state": "Jharkhand"
   },
   {
     "id": "69d6d26af4aa",
@@ -20541,7 +20794,8 @@
     "posted_date": "2026-01-27",
     "sort_date": "2026-01-27",
     "sort_deadline": "2026-05-15",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=531feb45a84f"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=531feb45a84f",
+    "state": "Odisha"
   },
   {
     "id": "6f1e81c554da",
@@ -20567,7 +20821,8 @@
     "posted_date": "2026-01-27",
     "sort_date": "2026-01-27",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=6f1e81c554da"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=6f1e81c554da",
+    "state": "Arunachal Pradesh"
   },
   {
     "id": "5344fdf62b0d",
@@ -20645,7 +20900,8 @@
     "posted_date": "2026-01-26",
     "sort_date": "2026-01-26",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=2dcd7af96e47"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=2dcd7af96e47",
+    "state": "Telangana"
   },
   {
     "id": "b1c4b93ca916",
@@ -20723,7 +20979,8 @@
     "posted_date": "2026-01-24",
     "sort_date": "2026-01-24",
     "sort_deadline": "2026-04-04",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c552df7b2c68"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c552df7b2c68",
+    "state": "Jammu & Kashmir"
   },
   {
     "id": "eb598e242449",
@@ -20879,7 +21136,8 @@
     "posted_date": "2026-01-22",
     "sort_date": "2026-01-22",
     "sort_deadline": "2026-03-02",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=045e462e20dd"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=045e462e20dd",
+    "state": "Jammu & Kashmir"
   },
   {
     "id": "e999a11377c8",
@@ -20931,7 +21189,8 @@
     "posted_date": "2026-01-20",
     "sort_date": "2026-01-20",
     "sort_deadline": "2026-02-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0d29f485d203"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0d29f485d203",
+    "state": "Delhi"
   },
   {
     "id": "2854e188510d",
@@ -20957,7 +21216,8 @@
     "posted_date": "2026-01-20",
     "sort_date": "2026-01-20",
     "sort_deadline": "2026-02-18",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=2854e188510d"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=2854e188510d",
+    "state": "Haryana"
   },
   {
     "id": "51a09d7d441b",
@@ -20983,7 +21243,8 @@
     "posted_date": "2026-01-20",
     "sort_date": "2026-01-20",
     "sort_deadline": "2026-02-19",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=51a09d7d441b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=51a09d7d441b",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "fb58c1df157c",
@@ -21087,7 +21348,8 @@
     "posted_date": "2026-01-18",
     "sort_date": "2026-01-18",
     "sort_deadline": "2026-01-30",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5c56da94f8ee"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5c56da94f8ee",
+    "state": "Gujarat"
   },
   {
     "id": "1a7d004696ee",
@@ -21139,7 +21401,8 @@
     "posted_date": "2026-01-18",
     "sort_date": "2026-01-18",
     "sort_deadline": "2026-02-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=23fbed04410b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=23fbed04410b",
+    "state": "Bihar"
   },
   {
     "id": "162770e8a2c2",
@@ -21165,7 +21428,8 @@
     "posted_date": "2026-01-18",
     "sort_date": "2026-01-18",
     "sort_deadline": "2026-02-22",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=162770e8a2c2"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=162770e8a2c2",
+    "state": "Assam"
   },
   {
     "id": "f8f40d0d6b94",
@@ -21217,7 +21481,8 @@
     "posted_date": "2026-01-16",
     "sort_date": "2026-01-16",
     "sort_deadline": "2026-01-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=81ccc1526077"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=81ccc1526077",
+    "state": "Karnataka"
   },
   {
     "id": "cecfaa6f18f9",
@@ -21295,7 +21560,8 @@
     "posted_date": "2026-01-16",
     "sort_date": "2026-01-16",
     "sort_deadline": "2026-01-27",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b0449aa1e322"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b0449aa1e322",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "0d7bd5e17cef",
@@ -21529,7 +21795,8 @@
     "posted_date": "2026-01-15",
     "sort_date": "2026-01-15",
     "sort_deadline": "2026-02-19",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=243b5001b88b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=243b5001b88b",
+    "state": "Haryana"
   },
   {
     "id": "6537bcfcf441",
@@ -21581,7 +21848,8 @@
     "posted_date": "2026-01-13",
     "sort_date": "2026-01-13",
     "sort_deadline": "2026-02-02",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=12d4c30c6743"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=12d4c30c6743",
+    "state": "Bihar"
   },
   {
     "id": "becb69be166d",
@@ -21633,7 +21901,8 @@
     "posted_date": "2026-01-13",
     "sort_date": "2026-01-13",
     "sort_deadline": "2026-02-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3da7292a10d2"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3da7292a10d2",
+    "state": "Bihar"
   },
   {
     "id": "23a8879e3513",
@@ -21815,7 +22084,8 @@
     "posted_date": "2026-01-09",
     "sort_date": "2026-01-09",
     "sort_deadline": "2026-01-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=05898045f92e"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=05898045f92e",
+    "state": "Maharashtra"
   },
   {
     "id": "06c298f1b116",
@@ -21893,7 +22163,8 @@
     "posted_date": "2026-01-09",
     "sort_date": "2026-01-09",
     "sort_deadline": "2026-02-02",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=fe6f481f0f4f"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=fe6f481f0f4f",
+    "state": "Haryana"
   },
   {
     "id": "50886facaced",
@@ -21945,7 +22216,8 @@
     "posted_date": "2026-01-09",
     "sort_date": "2026-01-09",
     "sort_deadline": "2026-02-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=fd4e7203f197"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=fd4e7203f197",
+    "state": "Assam"
   },
   {
     "id": "0377baa1c3d4",
@@ -22049,7 +22321,8 @@
     "posted_date": "2026-01-09",
     "sort_date": "2026-01-09",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f1b3cc64bc8d"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f1b3cc64bc8d",
+    "state": "Gujarat"
   },
   {
     "id": "bbc964457885",
@@ -22283,7 +22556,8 @@
     "posted_date": "2026-01-05",
     "sort_date": "2026-01-05",
     "sort_deadline": "2026-02-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=76ccdb659ca2"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=76ccdb659ca2",
+    "state": "Jammu & Kashmir"
   },
   {
     "id": "226d2eeac1d2",
@@ -22413,7 +22687,8 @@
     "posted_date": "2026-01-04",
     "sort_date": "2026-01-04",
     "sort_deadline": "2026-03-12",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5e35a44c93a3"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5e35a44c93a3",
+    "state": "Odisha"
   },
   {
     "id": "554e42ae1847",
@@ -22517,7 +22792,8 @@
     "posted_date": "2026-01-02",
     "sort_date": "2026-01-02",
     "sort_deadline": "2026-03-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f1cff7f59e04"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f1cff7f59e04",
+    "state": "Haryana"
   },
   {
     "id": "9ad65ca93585",
@@ -22543,7 +22819,8 @@
     "posted_date": "2026-01-02",
     "sort_date": "2026-01-02",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=9ad65ca93585"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=9ad65ca93585",
+    "state": "Madhya Pradesh"
   },
   {
     "id": "5502300eab03",
@@ -22569,7 +22846,8 @@
     "posted_date": "2026-01-02",
     "sort_date": "2026-01-02",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5502300eab03"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5502300eab03",
+    "state": "Maharashtra"
   },
   {
     "id": "acb98d4258fd",
@@ -22595,7 +22873,8 @@
     "posted_date": "2026-01-01",
     "sort_date": "2026-01-01",
     "sort_deadline": "2026-01-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=acb98d4258fd"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=acb98d4258fd",
+    "state": "Karnataka"
   },
   {
     "id": "efe9ef896adf",
@@ -22647,7 +22926,8 @@
     "posted_date": "2026-01-01",
     "sort_date": "2026-01-01",
     "sort_deadline": "2026-02-02",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=dd39da6795c3"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=dd39da6795c3",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "e12ff9db7463",
@@ -22829,7 +23109,8 @@
     "posted_date": "2025-12-28",
     "sort_date": "2025-12-28",
     "sort_deadline": "2025-12-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=72c63033222b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=72c63033222b",
+    "state": "Jharkhand"
   },
   {
     "id": "07ff2a6a0787",
@@ -22855,7 +23136,8 @@
     "posted_date": "2025-12-28",
     "sort_date": "2025-12-28",
     "sort_deadline": "2026-01-19",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=07ff2a6a0787"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=07ff2a6a0787",
+    "state": "Gujarat"
   },
   {
     "id": "fc4e317b2b11",
@@ -22907,7 +23189,8 @@
     "posted_date": "2025-12-28",
     "sort_date": "2025-12-28",
     "sort_deadline": "2026-03-07",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=dc598441e8aa"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=dc598441e8aa",
+    "state": "Jammu & Kashmir"
   },
   {
     "id": "47ef2fe498f0",
@@ -23063,7 +23346,8 @@
     "posted_date": "2025-12-26",
     "sort_date": "2025-12-26",
     "sort_deadline": "2026-02-17",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=79315eeb73cf"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=79315eeb73cf",
+    "state": "Jammu & Kashmir"
   },
   {
     "id": "e8a7eac68b70",
@@ -23193,7 +23477,8 @@
     "posted_date": "2025-12-24",
     "sort_date": "2025-12-24",
     "sort_deadline": "2026-01-20",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5e528f0a518f"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5e528f0a518f",
+    "state": "Punjab"
   },
   {
     "id": "5fbb1f8c6157",
@@ -23245,7 +23530,8 @@
     "posted_date": "2025-12-23",
     "sort_date": "2025-12-23",
     "sort_deadline": "2026-01-22",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e48f392c539a"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e48f392c539a",
+    "state": "Punjab"
   },
   {
     "id": "1b1929e5c955",
@@ -23323,7 +23609,8 @@
     "posted_date": "2025-12-22",
     "sort_date": "2025-12-22",
     "sort_deadline": "2026-01-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=275f7ac72fcf"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=275f7ac72fcf",
+    "state": "Puducherry"
   },
   {
     "id": "bb538a677c74",
@@ -23349,7 +23636,8 @@
     "posted_date": "2025-12-22",
     "sort_date": "2025-12-22",
     "sort_deadline": "2026-02-02",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=bb538a677c74"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=bb538a677c74",
+    "state": "Andhra Pradesh"
   },
   {
     "id": "bc66798e4186",
@@ -23401,7 +23689,8 @@
     "posted_date": "2025-12-21",
     "sort_date": "2025-12-21",
     "sort_deadline": "2026-01-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=fd26b8557b09"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=fd26b8557b09",
+    "state": "Rajasthan"
   },
   {
     "id": "03399c07837d",
@@ -23453,7 +23742,8 @@
     "posted_date": "2025-12-21",
     "sort_date": "2025-12-21",
     "sort_deadline": "2026-01-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=801828fc2035"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=801828fc2035",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "806d1aa10b6c",
@@ -23791,7 +24081,8 @@
     "posted_date": "2025-12-17",
     "sort_date": "2025-12-17",
     "sort_deadline": "2026-01-08",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=34276cdbaf26"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=34276cdbaf26",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "5e7bd920fc5d",
@@ -23817,7 +24108,8 @@
     "posted_date": "2025-12-17",
     "sort_date": "2025-12-17",
     "sort_deadline": "2026-01-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5e7bd920fc5d"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5e7bd920fc5d",
+    "state": "Manipur"
   },
   {
     "id": "5f91c52fc7b0",
@@ -23843,7 +24135,8 @@
     "posted_date": "2025-12-17",
     "sort_date": "2025-12-17",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5f91c52fc7b0"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5f91c52fc7b0",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "73826a30d6dd",
@@ -23947,7 +24240,8 @@
     "posted_date": "2025-12-14",
     "sort_date": "2025-12-14",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=85c154e8b085"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=85c154e8b085",
+    "state": "Maharashtra"
   },
   {
     "id": "54c80087ba8d",
@@ -24051,7 +24345,8 @@
     "posted_date": "2025-12-13",
     "sort_date": "2025-12-13",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0a843539a83a"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=0a843539a83a",
+    "state": "Odisha"
   },
   {
     "id": "4d990425b34b",
@@ -24077,7 +24372,8 @@
     "posted_date": "2025-12-13",
     "sort_date": "2025-12-13",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4d990425b34b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=4d990425b34b",
+    "state": "Odisha"
   },
   {
     "id": "442096ec6b03",
@@ -24155,7 +24451,8 @@
     "posted_date": "2025-12-12",
     "sort_date": "2025-12-12",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=057102b1ce9a"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=057102b1ce9a",
+    "state": "Delhi"
   },
   {
     "id": "35ae99437c84",
@@ -24181,7 +24478,8 @@
     "posted_date": "2025-12-11",
     "sort_date": "2025-12-11",
     "sort_deadline": "2025-12-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=35ae99437c84"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=35ae99437c84",
+    "state": "Goa"
   },
   {
     "id": "cc35b34603bd",
@@ -24337,7 +24635,8 @@
     "posted_date": "2025-12-09",
     "sort_date": "2025-12-09",
     "sort_deadline": "2026-03-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=eae4050c0fbc"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=eae4050c0fbc",
+    "state": "Gujarat"
   },
   {
     "id": "1ab0ae26271d",
@@ -24363,7 +24662,8 @@
     "posted_date": "2025-12-08",
     "sort_date": "2025-12-08",
     "sort_deadline": "2025-12-03",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=1ab0ae26271d"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=1ab0ae26271d",
+    "state": "Gujarat"
   },
   {
     "id": "0dbe980a84f4",
@@ -24519,7 +24819,8 @@
     "posted_date": "2025-12-07",
     "sort_date": "2025-12-07",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b83762d74f7c"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b83762d74f7c",
+    "state": "Haryana"
   },
   {
     "id": "8fc7080cee74",
@@ -24545,7 +24846,8 @@
     "posted_date": "2025-12-06",
     "sort_date": "2025-12-06",
     "sort_deadline": "2026-01-01",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=8fc7080cee74"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=8fc7080cee74",
+    "state": "Assam"
   },
   {
     "id": "997b00ffe228",
@@ -24623,7 +24925,8 @@
     "posted_date": "2025-12-05",
     "sort_date": "2025-12-05",
     "sort_deadline": "2025-12-23",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3b8c99901529"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3b8c99901529",
+    "state": "Gujarat"
   },
   {
     "id": "f1727e7aef97",
@@ -24649,7 +24952,8 @@
     "posted_date": "2025-12-05",
     "sort_date": "2025-12-05",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f1727e7aef97"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=f1727e7aef97",
+    "state": "Bihar"
   },
   {
     "id": "38038fc41fe2",
@@ -24727,7 +25031,8 @@
     "posted_date": "2025-12-04",
     "sort_date": "2025-12-04",
     "sort_deadline": "2026-01-02",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b8f1c35390b7"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b8f1c35390b7",
+    "state": "Uttar Pradesh"
   },
   {
     "id": "a3c348e4eec7",
@@ -24753,7 +25058,8 @@
     "posted_date": "2025-12-04",
     "sort_date": "2025-12-04",
     "sort_deadline": "2026-02-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a3c348e4eec7"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a3c348e4eec7",
+    "state": "Jharkhand"
   },
   {
     "id": "89e7164fe116",
@@ -24935,7 +25241,8 @@
     "posted_date": "2025-12-01",
     "sort_date": "2025-12-01",
     "sort_deadline": "2025-12-02",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=51633f10e39d"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=51633f10e39d",
+    "state": "Maharashtra"
   },
   {
     "id": "defa2f4f023b",
@@ -24961,7 +25268,8 @@
     "posted_date": "2025-12-01",
     "sort_date": "2025-12-01",
     "sort_deadline": "2025-12-13",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=defa2f4f023b"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=defa2f4f023b",
+    "state": "Goa"
   },
   {
     "id": "09cdeecae02f",
@@ -25013,7 +25321,8 @@
     "posted_date": "2025-12-01",
     "sort_date": "2025-12-01",
     "sort_deadline": "9999",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a73bd5151904"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a73bd5151904",
+    "state": "Punjab"
   },
   {
     "id": "1e1f033d5f7d",
@@ -25065,7 +25374,8 @@
     "posted_date": "2025-11-30",
     "sort_date": "2025-11-30",
     "sort_deadline": "2026-01-16",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=563792545621"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=563792545621",
+    "state": "Punjab"
   },
   {
     "id": "d7ef7a4cdbbf",
@@ -25117,7 +25427,8 @@
     "posted_date": "2025-11-29",
     "sort_date": "2025-11-29",
     "sort_deadline": "2025-12-27",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=512c1b0178c5"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=512c1b0178c5",
+    "state": "Punjab"
   },
   {
     "id": "e7d028920358",
@@ -25143,7 +25454,8 @@
     "posted_date": "2025-11-27",
     "sort_date": "2025-11-27",
     "sort_deadline": "2025-12-00",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e7d028920358"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=e7d028920358",
+    "state": "Chhattisgarh"
   },
   {
     "id": "3021d7561c73",
@@ -25169,7 +25481,8 @@
     "posted_date": "2025-11-27",
     "sort_date": "2025-11-27",
     "sort_deadline": "2025-12-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3021d7561c73"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=3021d7561c73",
+    "state": "Gujarat"
   },
   {
     "id": "a53131bcef66",
@@ -25195,7 +25508,8 @@
     "posted_date": "2025-11-27",
     "sort_date": "2025-11-27",
     "sort_deadline": "2025-12-29",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a53131bcef66"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a53131bcef66",
+    "state": "West Bengal"
   },
   {
     "id": "32dfdb057ba2",
@@ -25221,7 +25535,8 @@
     "posted_date": "2025-11-27",
     "sort_date": "2025-11-27",
     "sort_deadline": "2026-01-05",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=32dfdb057ba2"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=32dfdb057ba2",
+    "state": "Bihar"
   },
   {
     "id": "c94992385215",
@@ -25247,7 +25562,8 @@
     "posted_date": "2025-11-27",
     "sort_date": "2025-11-27",
     "sort_deadline": "2026-01-13",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c94992385215"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=c94992385215",
+    "state": "Jammu & Kashmir"
   },
   {
     "id": "e9ca43a12d5a",
@@ -25351,7 +25667,8 @@
     "posted_date": "2025-11-26",
     "sort_date": "2025-11-26",
     "sort_deadline": "2026-01-06",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=1838186fa363"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=1838186fa363",
+    "state": "Jammu & Kashmir"
   },
   {
     "id": "32b267d2a395",
@@ -25481,7 +25798,8 @@
     "posted_date": "2025-11-23",
     "sort_date": "2025-11-23",
     "sort_deadline": "2025-12-04",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=8c20bc0c09f6"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=8c20bc0c09f6",
+    "state": "Maharashtra"
   },
   {
     "id": "12cdbe81a97e",
@@ -25507,7 +25825,8 @@
     "posted_date": "2025-11-23",
     "sort_date": "2025-11-23",
     "sort_deadline": "2025-12-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=12cdbe81a97e"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=12cdbe81a97e",
+    "state": "Maharashtra"
   },
   {
     "id": "b53ee6bf9a35",
@@ -25741,7 +26060,8 @@
     "posted_date": "2025-11-21",
     "sort_date": "2025-11-21",
     "sort_deadline": "2025-12-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a98142646cf6"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=a98142646cf6",
+    "state": "Bihar"
   },
   {
     "id": "39aed4867410",
@@ -25949,7 +26269,8 @@
     "posted_date": "2025-11-19",
     "sort_date": "2025-11-19",
     "sort_deadline": "2025-12-09",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b5297dba4c85"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=b5297dba4c85",
+    "state": "Punjab"
   },
   {
     "id": "0057ec5cca99",
@@ -26001,7 +26322,8 @@
     "posted_date": "2025-11-19",
     "sort_date": "2025-11-19",
     "sort_deadline": "2026-01-19",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5d7ba73cd5cf"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=5d7ba73cd5cf",
+    "state": "Punjab"
   },
   {
     "id": "981e7bffba4e",
@@ -26027,7 +26349,8 @@
     "posted_date": "2025-11-18",
     "sort_date": "2025-11-18",
     "sort_deadline": "2025-11-30",
-    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=981e7bffba4e"
+    "website_url": "https://govtjobs-daily-updates.pages.dev/post.html?id=981e7bffba4e",
+    "state": "Gujarat"
   },
   {
     "id": "70954a63c85d",
