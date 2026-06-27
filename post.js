@@ -59,10 +59,16 @@ async function loadAndRender() {
         renderPost(job);
     } catch (err) {
         console.error(err);
-        document.getElementById('postLoading').innerHTML = `
+        document.getElementById('postLoading').innerHTML = var _rl = buildRelatedLinks(job);
+        var _rh = '';
+        if (_rl.length > 0) {
+            _rh = '<div style="margin-top:24px;padding:16px;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0;"><p style="font-weight:600;margin-bottom:8px;color:#334155;font-size:15px;">Related Categories:</p><div style="display:flex;flex-wrap:wrap;gap:4px 16px;">' + _rl.join('') + '</div></div>';
+        }
+        `
             <div style="font-size:48px;margin-bottom:16px">\u26a0\ufe0f</div>
             <h2>Failed to Load</h2>
             <p>Unable to load post data. Please try again later.</p>
+            ${_rh}
             <a href="/" class="back-btn" style="margin-top:20px">\u2190 Back to Home</a>`;
     }
 }
