@@ -1,3 +1,4 @@
+const STATE_SLUGS_POST = {"Andhra Pradesh": "andhra-pradesh-govt-jobs", "Arunachal Pradesh": "arunachal-pradesh-govt-jobs", "Assam": "assam-govt-jobs", "Bihar": "bihar-govt-jobs", "Chhattisgarh": "chhattisgarh-govt-jobs", "Goa": "goa-govt-jobs", "Gujarat": "gujarat-govt-jobs", "Haryana": "haryana-govt-jobs", "Himachal Pradesh": "himachal-pradesh-govt-jobs", "Jharkhand": "jharkhand-govt-jobs", "Karnataka": "karnataka-govt-jobs", "Kerala": "kerala-govt-jobs", "Madhya Pradesh": "madhya-pradesh-govt-jobs", "Maharashtra": "maharashtra-govt-jobs", "Manipur": "manipur-govt-jobs", "Meghalaya": "meghalaya-govt-jobs", "Mizoram": "mizoram-govt-jobs", "Nagaland": "nagaland-govt-jobs", "Odisha": "odisha-govt-jobs", "Punjab": "punjab-govt-jobs", "Rajasthan": "rajasthan-govt-jobs", "Sikkim": "sikkim-govt-jobs", "Tamil Nadu": "tamil-nadu-govt-jobs", "Telangana": "telangana-govt-jobs", "Tripura": "tripura-govt-jobs", "Uttar Pradesh": "uttar-pradesh-govt-jobs", "Uttarakhand": "uttarakhand-govt-jobs", "West Bengal": "west-bengal-govt-jobs", "Delhi": "delhi-govt-jobs", "Jammu & Kashmir": "jammu-kashmir-govt-jobs", "Ladakh": "ladakh-govt-jobs", "Chandigarh": "chandigarh-govt-jobs", "Puducherry": "puducherry-govt-jobs", "Andaman & Nicobar": "andaman-nicobar-govt-jobs", "Lakshadweep": "lakshadweep-govt-jobs"};
 // ========== POST DETAIL PAGE ==========
 const TYPE_CONFIG = {
     recruitment: { label: 'Recruitment', icon: '\ud83d\udccb' },
@@ -181,6 +182,41 @@ function buildContentSections(job) {
     }
 
     return sections;
+}
+
+function buildRelatedLinks(job) {
+    var links = [];
+    if (job.state && STATE_SLUGS_POST[job.state]) {
+        links.push('<a href="' + STATE_SLUGS_POST[job.state] + '.html" style="color:#2563eb;text-decoration:none;font-weight:500;display:inline-block;margin:4px 8px 4px 0;">&#x2192; ' + esc(job.state) + ' Govt Jobs</a>');
+    }
+    if (job.qualification) {
+        var q = job.qualification.toLowerCase();
+        if (/10th|sslc|matric|high school/i.test(q)) {
+            links.push('<a href="10th-pass-jobs.html" style="color:#2563eb;text-decoration:none;font-weight:500;display:inline-block;margin:4px 8px 4px 0;">&#x2192; 10th Pass Jobs</a>');
+        }
+        if (/12th|intermediate|hsc|10\+2|higher secondary/i.test(q)) {
+            links.push('<a href="12th-pass-jobs.html" style="color:#2563eb;text-decoration:none;font-weight:500;display:inline-block;margin:4px 8px 4px 0;">&#x2192; 12th Pass Jobs</a>');
+        }
+        if (/b\.?e\.|b\.?tech|engineering/i.test(q)) {
+            links.push('<a href="psu-jobs.html" style="color:#2563eb;text-decoration:none;font-weight:500;display:inline-block;margin:4px 8px 4px 0;">&#x2192; Engineering / PSU Jobs</a>');
+        }
+        if (/b\.?ed|d\.?el\.?ed|tet|teaching/i.test(q)) {
+            links.push('<a href="teaching-jobs.html" style="color:#2563eb;text-decoration:none;font-weight:500;display:inline-block;margin:4px 8px 4px 0;">&#x2192; Teaching Jobs</a>');
+        }
+        if (/graduate|bachelor/i.test(q)) {
+            links.push('<a href="central-govt.html" style="color:#2563eb;text-decoration:none;font-weight:500;display:inline-block;margin:4px 8px 4px 0;">&#x2192; Central Govt Jobs</a>');
+        }
+    }
+    if (job.category === 'Railway') {
+        links.push('<a href="railway-jobs.html" style="color:#2563eb;text-decoration:none;font-weight:500;display:inline-block;margin:4px 8px 4px 0;">&#x2192; Railway Jobs</a>');
+    }
+    if (job.category === 'Banking') {
+        links.push('<a href="banking-jobs.html" style="color:#2563eb;text-decoration:none;font-weight:500;display:inline-block;margin:4px 8px 4px 0;">&#x2192; Banking Jobs</a>');
+    }
+    if (job.category === 'Defence') {
+        links.push('<a href="defence-jobs.html" style="color:#2563eb;text-decoration:none;font-weight:500;display:inline-block;margin:4px 8px 4px 0;">&#x2192; Defence Jobs</a>');
+    }
+    return links;
 }
 
 function renderPost(job) {

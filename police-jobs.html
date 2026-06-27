@@ -55,8 +55,8 @@
         </div>
     </header>
     <main class="container" style="padding:20px;max-width:1200px;margin:0 auto;">
-        <h1 style="font-size:28px;margin-bottom:12px;">Police Jobs 2026 - Constable, SI, ASI Recruitment</h1>
-        <p style="color:#64748b;margin-bottom:24px;line-height:1.7;">Get all police recruitment for 2026. State police constable, sub-inspector, ASI, armed police, and central armed police forces (CRPF, BSF, CISF, ITBP, SSB). All with official links, updated hourly.</p>
+        <h1 style="font-size:28px;margin-bottom:12px;">Latest Police / Constable / SI Jobs 2026</h1>
+        <p style="color:#64748b;margin-bottom:24px;line-height:1.7;">All police department recruitment notifications across India for 2026. Constable, SI, ASI, DSP, CISF, CRPF, BSF, ITBP, and other police/paramilitary force vacancies with verified apply links.</p>
         <div id="jobsList"></div>
         <div id="loadingState" style="text-align:center;padding:40px;color:#64748b;">Loading latest updates...</div>
     </main>
@@ -69,9 +69,8 @@
     </footer>
     <script>
     (function(){
-        var FK="category", FV="Police";
         fetch("data/jobs.json").then(function(r){return r.json()}).then(function(jobs){
-            var filtered = FK ? jobs.filter(function(j){return j[FK] && j[FK]===FV}) : jobs;
+            var filtered = jobs.filter(function(j){ var t = (j.title||"").toLowerCase() + " " + (j.organization||"").toLowerCase() + " " + (j.description||"").toLowerCase(); return /police|constable|sub.?inspector|\bsi\b|asp|dsp|cisf|crpf|bsf|itbp|sashastra seema|ssf|coast guard|paramilitary|central armed police|home guard/i.test(t); });
             filtered.sort(function(a,b){return (b.sort_date||"").localeCompare(a.sort_date||"")});
             var container = document.getElementById("jobsList");
             var loading = document.getElementById("loadingState");

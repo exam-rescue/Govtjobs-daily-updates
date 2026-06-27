@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>12th Pass Government Jobs 2026 - Intermediate Jobs &mdash; GovtJobs Daily</title>
-    <meta name="description" content="Latest 12th pass government jobs 2026 - SSC CHSL, Railway, clerk, data entry, state govt intermediate vacancies.">
+    <title>Latest Sikkim Government Jobs 2026 - Sarkari Naukri &mdash; GovtJobs Daily</title>
+    <meta name="description" content="Get all latest Sikkim government jobs 2026. 2+ active vacancies including police, teaching, health department jobs. Apply online with verified links.">
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
-    <link rel="canonical" href="https://govtjobs-daily-updates.pages.dev/12th-pass-jobs.html">
+    <link rel="canonical" href="https://govtjobs-daily-updates.pages.dev/sikkim-govt-jobs.html">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
@@ -14,17 +14,17 @@
     <link rel="icon" href="data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'&gt;&lt;text y='.9em' font-size='90'&gt;&amp;#x1F4CB;&lt;/text&gt;&lt;/svg&gt;">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="GovtJobs Daily">
-    <meta property="og:title" content="12th Pass Government Jobs 2026 - Intermediate Jobs">
-    <meta property="og:description" content="Latest 12th pass government jobs 2026 - SSC CHSL, Railway, clerk, data entry, state govt intermediate vacancies.">
-    <meta property="og:url" content="https://govtjobs-daily-updates.pages.dev/12th-pass-jobs.html">
+    <meta property="og:title" content="Latest Sikkim Government Jobs 2026 - Sarkari Naukri">
+    <meta property="og:description" content="Get all latest Sikkim government jobs 2026. 2+ active vacancies including police, teaching, health department jobs. Apply online with verified links.">
+    <meta property="og:url" content="https://govtjobs-daily-updates.pages.dev/sikkim-govt-jobs.html">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="12th Pass Government Jobs 2026 - Intermediate Jobs">
-    <meta name="twitter:description" content="Latest 12th pass government jobs 2026 - SSC CHSL, Railway, clerk, data entry, state govt intermediate vacancies.">
+    <meta name="twitter:title" content="Latest Sikkim Government Jobs 2026 - Sarkari Naukri">
+    <meta name="twitter:description" content="Get all latest Sikkim government jobs 2026. 2+ active vacancies including police, teaching, health department jobs. Apply online with verified links.">
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://govtjobs-daily-updates.pages.dev/"},{"@type":"ListItem","position":2,"name":"12th Pass Government Jobs 2026"}]}
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://govtjobs-daily-updates.pages.dev/"},{"@type":"ListItem","position":2,"name":"Latest Sikkim Government Jobs 2026"}]}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What are best govt jobs for 12th pass?","acceptedAnswer":{"@type":"Answer","text":"SSC CHSL (LDC/JSA), Railway Clerk, Navy SSR/AA, Police Constable, Banking Clerk. Good salary and career growth."}},{"@type":"Question","name":"Can 12th pass apply for SSC CGL?","acceptedAnswer":{"@type":"Answer","text":"No, SSC CGL requires graduation. 12th pass should target SSC CHSL, MTS, and GD Constable exams."}}]}
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What government jobs are available in Gujarat 2026?","acceptedAnswer":{"@type":"Answer","text":"GovtJobs Daily lists all latest Sikkim government recruitment from official sources, updated hourly with verified links."}},{"@type":"Question","name":"How to apply for Sikkim govt jobs?","acceptedAnswer":{"@type":"Answer","text":"Click any listing for full details and official application link. Most Gujarat jobs accept online applications."}},{"@type":"Question","name":"Is this free for Sikkim job alerts?","acceptedAnswer":{"@type":"Answer","text":"Yes, all Gujarat government job notifications are completely free. No registration needed."}}]}
     </script>
 </head>
 <body>
@@ -55,8 +55,8 @@
         </div>
     </header>
     <main class="container" style="padding:20px;max-width:1200px;margin:0 auto;">
-        <h1 style="font-size:28px;margin-bottom:12px;">12th Pass Government Jobs 2026 - Intermediate Level</h1>
-        <p style="color:#64748b;margin-bottom:24px;line-height:1.7;">All government jobs for 12th pass / Intermediate / HSC candidates in 2026. Railway, banking, SSC, police, defence, and other department vacancies for 12th pass qualification.</p>
+        <h1 style="font-size:28px;margin-bottom:12px;">Latest Sikkim Government Jobs 2026</h1>
+        <p style="color:#64748b;margin-bottom:24px;line-height:1.7;">Find all government job notifications in Sikkim for 2026. Currently 36+ active vacancies from official sources from official government sources with verified application links. All listings include verified official application links updated every hour.</p>
         <div id="jobsList"></div>
         <div id="loadingState" style="text-align:center;padding:40px;color:#64748b;">Loading latest updates...</div>
     </main>
@@ -69,8 +69,9 @@
     </footer>
     <script>
     (function(){
+        var FK="state", FV="Sikkim";
         fetch("data/jobs.json").then(function(r){return r.json()}).then(function(jobs){
-            var filtered = jobs.filter(function(j){ var q = (j.qualification||"").toLowerCase(); return /(12th|intermediate|hsc|10\+2|higher secondary|xii|senior secondary|10th\s*\+\s*2|puc)/i.test(q); });
+            var filtered = FK ? jobs.filter(function(j){return j[FK] && j[FK]===FV}) : jobs;
             filtered.sort(function(a,b){return (b.sort_date||"").localeCompare(a.sort_date||"")});
             var container = document.getElementById("jobsList");
             var loading = document.getElementById("loadingState");
@@ -105,7 +106,7 @@
                 h += '</div></a>';
             }
             h += '</div>';
-            h += '<p style="text-align:center;color:#94a3b8;margin-top:24px;">Showing ' + filtered.length + ' result' + (filtered.length!==1?'s':'') + ' for 12th Pass Government Jobs 2026. <a href="/">View all jobs &#x2192;</a></p>';
+            h += '<p style="text-align:center;color:#94a3b8;margin-top:24px;">Showing ' + filtered.length + ' result' + (filtered.length!==1?'s':'') + ' for Latest Sikkim Government Jobs 2026. <a href="/">View all jobs &#x2192;</a></p>';
             container.innerHTML = h;
         }).catch(function(e){
             document.getElementById("loadingState").textContent = "Failed to load. Please try again.";

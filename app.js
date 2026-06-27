@@ -325,23 +325,49 @@ function populateSidebar() {
 }
 
 // ========== BROWSE GRIDS ==========
+// State/Qual slug mappings for landing page links
+const STATE_SLUGS = {"Andhra Pradesh": "andhra-pradesh-govt-jobs", "Arunachal Pradesh": "arunachal-pradesh-govt-jobs", "Assam": "assam-govt-jobs", "Bihar": "bihar-govt-jobs", "Chhattisgarh": "chhattisgarh-govt-jobs", "Goa": "goa-govt-jobs", "Gujarat": "gujarat-govt-jobs", "Haryana": "haryana-govt-jobs", "Himachal Pradesh": "himachal-pradesh-govt-jobs", "Jharkhand": "jharkhand-govt-jobs", "Karnataka": "karnataka-govt-jobs", "Kerala": "kerala-govt-jobs", "Madhya Pradesh": "madhya-pradesh-govt-jobs", "Maharashtra": "maharashtra-govt-jobs", "Manipur": "manipur-govt-jobs", "Meghalaya": "meghalaya-govt-jobs", "Mizoram": "mizoram-govt-jobs", "Nagaland": "nagaland-govt-jobs", "Odisha": "odisha-govt-jobs", "Punjab": "punjab-govt-jobs", "Rajasthan": "rajasthan-govt-jobs", "Sikkim": "sikkim-govt-jobs", "Tamil Nadu": "tamil-nadu-govt-jobs", "Telangana": "telangana-govt-jobs", "Tripura": "tripura-govt-jobs", "Uttar Pradesh": "uttar-pradesh-govt-jobs", "Uttarakhand": "uttarakhand-govt-jobs", "West Bengal": "west-bengal-govt-jobs", "Delhi": "delhi-govt-jobs", "Jammu & Kashmir": "jammu-kashmir-govt-jobs", "Ladakh": "ladakh-govt-jobs", "Chandigarh": "chandigarh-govt-jobs", "Puducherry": "puducherry-govt-jobs", "Andaman & Nicobar": "andaman-nicobar-govt-jobs", "Lakshadweep": "lakshadweep-govt-jobs"};
+const QUAL_SLUGS = {"10th Pass": "10th-pass-jobs", "12th Pass": "12th-pass-jobs", "Graduate": "central-govt", "Post Graduate": "central-govt", "Engineering": "psu-jobs", "Diploma": "psu-jobs", "ITI": "defence-jobs", "Medical": "teaching-jobs", "Teaching": "teaching-jobs", "Computer / IT": "banking-jobs", "Commerce": "banking-jobs", "Law": "central-govt", "PhD": "central-govt"};
+
 function buildBrowseGrids() {
-    // States
     const stateGrid = document.getElementById('stateGrid');
     stateGrid.innerHTML = STATES.map(s => {
-        const count = allJobs.filter(j => j.title && j.title.toLowerCase().includes(s.toLowerCase().split(' ')[0].toLowerCase())).length;
-        return `<button class="browse-btn" onclick="searchState('${s.replace(/'/g, "\\'")}')">${s}<span class="bb-count">${count} updates</span></button>`;
+        const count = allJobs.filter(j => j.state && j.state === s).length;
+        const slug = STATE_SLUGS[s];
+        if (slug) {
+            return '<a href="' + slug + '.html" class="browse-btn" style="text-decoration:none;cursor:pointer;">' + s + '<span class="bb-count">' + count + ' updates</span></a>';
+        }
+        return '<button class="browse-btn" onclick="searchState(\x27' + s.replace(/'/g, "\\x27") + '\x27)">' + s + '<span class="bb-count">' + count + ' updates</span></button>';
     }).join('');
 
-    // Qualifications
     const qualGrid = document.getElementById('qualGrid');
     qualGrid.innerHTML = QUALIFICATIONS.map(q => {
-        const count = allJobs.filter(j => j.qualification && j.qualification.toLowerCase().includes(q.toLowerCase().split(' ')[0].toLowerCase())).length;
-        return `<button class="browse-btn" onclick="searchQual('${q.replace(/'/g, "\\'")}')">${q}<span class="bb-count">${count} updates</span></button>`;
+        let count = 0;
+        const ql = q.toLowerCase();
+        if (ql === '10th pass') { count = allJobs.filter(j => j.qualification && /10th|sslc|matric|high school|xth/i.test(j.qualification)).length; }
+        else if (ql === '12th pass') { count = allJobs.filter(j => j.qualification && /12th|intermediate|hsc|10\+2|higher secondary|xii|senior secondary/i.test(j.qualification)).length; }
+        else if (ql === 'graduate') { count = allJobs.filter(j => j.qualification && /graduate|bachelor/i.test(j.qualification)).length; }
+        else if (ql === 'post graduate') { count = allJobs.filter(j => j.qualification && /post\s*graduate|master|m\.?\s?a|i\.?m\.?\s?sc|m\.?\s?com/i.test(j.qualification)).length; }
+        else if (ql === 'engineering') { count = allJobs.filter(j => j.qualification && /b\.?\s?tech|b\.?\s?e\.|engineering/i.test(j.qualification)).length; }
+        else if (ql === 'diploma') { count = allJobs.filter(j => j.qualification && /diploma/i.test(j.qualification)).length; }
+        else if (ql === 'iti') { count = allJobs.filter(j => j.qualification && /iti|ntc|nac|industrial training/i.test(j.qualification)).length; }
+        else if (ql === 'medical') { count = allJobs.filter(j => j.qualification && /mbbs|bds|pharma|nursing|medical|b\.?\s?pharm|bhms|bams/i.test(j.qualification)).length; }
+        else if (ql === 'teaching') { count = allJobs.filter(j => j.qualification && /b\.?\s?ed|d\.?\s?el\.?\s?ed|tet|teaching/i.test(j.qualification)).length; }
+        else if (ql === 'computer / it') { count = allJobs.filter(j => j.qualification && /bca|mca|computer science|information technology|cse|b\.?\s?sc\s*(it|cs)/i.test(j.qualification)).length; }
+        else if (ql === 'commerce') { count = allJobs.filter(j => j.qualification && /b\.?\s?com|commerce|ca\b|cma/i.test(j.qualification)).length; }
+        else if (ql === 'law') { count = allJobs.filter(j => j.qualification && /ll\.?\s?b|law|legal/i.test(j.qualification)).length; }
+        else if (ql === 'phd') { count = allJobs.filter(j => j.qualification && /ph\.?\s?d|doctorate/i.test(j.qualification)).length; }
+        const slug = QUAL_SLUGS[q];
+        if (slug) {
+            return '<a href="' + slug + '.html" class="browse-btn" style="text-decoration:none;cursor:pointer;">' + q + '<span class="bb-count">' + count + ' updates</span></a>';
+        }
+        return '<button class="browse-btn" onclick="searchQual(\x27' + q.replace(/'/g, "\\x27") + '\x27)">' + q + '<span class="bb-count">' + count + ' updates</span></button>';
     }).join('');
 }
 
 function searchState(state) {
+    var slug = STATE_SLUGS[state];
+    if (slug) { window.location.href = slug + '.html'; return; }
     document.getElementById('searchInput').value = state;
     searchQuery = state.toLowerCase().split(' ')[0];
     document.getElementById('searchClear').hidden = false;
@@ -351,6 +377,8 @@ function searchState(state) {
 }
 
 function searchQual(qual) {
+    var slug = QUAL_SLUGS[qual];
+    if (slug) { window.location.href = slug + '.html'; return; }
     document.getElementById('searchInput').value = qual;
     searchQuery = qual.toLowerCase().split(' ')[0];
     document.getElementById('searchClear').hidden = false;
@@ -370,9 +398,13 @@ function buildFooterStates() {
 // ========== SIDEBAR QUAL ==========
 function buildSidebarQual() {
     const el = document.getElementById('sidebarQual');
-    el.innerHTML = QUALIFICATIONS.map(q =>
-        `<button class="sb-qual-tag" onclick="searchQual('${q.replace(/'/g, "\\'")}')">${q}</button>`
-    ).join('');
+    el.innerHTML = QUALIFICATIONS.map(q => {
+        const slug = QUAL_SLUGS[q];
+        if (slug) {
+            return '<a href="' + slug + '.html" class="sb-qual-tag" style="text-decoration:none;cursor:pointer;">' + q + '</a>';
+        }
+        return '<button class="sb-qual-tag" onclick="searchQual(\x27' + q.replace(/'/g, "\\x27") + '\x27)">' + q + '</button>';
+    }).join('');
 }
 
 // ========== UTILS ==========
