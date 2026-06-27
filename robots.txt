@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://govtjobs-daily-updates.pages.dev/sitemap.xml
-
-Crawl-delay: 1
+Sitemap: https://govtjobs-daily-updates.pages.dev/sitemap-static.xml
+Sitemap: https://govtjobs-daily-updates.pages.dev/sitemap-posts.xml
