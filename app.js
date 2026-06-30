@@ -46,9 +46,9 @@ const QUALIFICATIONS = [
 document.addEventListener('DOMContentLoaded', () => {
     loadJobs();
     setupEvents();
-    buildBrowseGrids();
-    buildFooterStates();
-    buildSidebarQual();
+;
+;
+;
 });
 
 function setupEvents() {
@@ -168,6 +168,9 @@ async function loadJobs() {
         const resp = await fetch('data/jobs.json');
         if (!resp.ok) throw new Error('Failed');
         allJobs = await resp.json();
+        buildBrowseGrids();
+        buildFooterStates();
+        buildSidebarQual();
         document.querySelectorAll('.skel-card').forEach(s => s.remove());
         updateStats();
         populateSidebar();
