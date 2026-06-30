@@ -1,0 +1,12 @@
+/sitemap.xml
+  Content-Type: application/xml
+  X-Content-Type-Options: nosniff
+  Access-Control-Allow-Origin: *
+
+/*.xml
+  Content-Type: application/xml
+  Access-Control-Allow-Origin: *
+
+/robots.txt
+  Content-Type: text/plain
+  Access-Control-Allow-Origin: *
